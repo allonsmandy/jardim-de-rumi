@@ -1,0 +1,37 @@
+id: gazal-0009
+category: gazal
+number: 9
+firstLine:
+  fa: من از کجا پند از کجا، باده بگردان ساقیا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من از کجا پند از کجا، باده بگردان ساقیا
+      - آن جام جان افزای را، برریز بر جان ساقیا
+    - - بر دست من نِه جام جان، ای دستگیر عاشقان
+      - دور از لب بیگانگان، پیش آر پنهان ساقیا
+    - - نانی بده نان خواره را، آن طامع بیچاره را
+      - آن عاشق نانباره را، کنجی بخسبان ساقیا
+    - - ای جانِ جانِ جانِ جان، ما نامدیم از بهر نان
+      - برجَه گدارویی مکن، در بزم سلطان ساقیا
+    - - اول بگیر آن جام مِه، بر کفّهٔ آن پیر نِه
+      - چون مست گردد پیر ده، رو سوی مستان ساقیا
+    - - رو سخت کن ای مرتجا، مست از کجا شرم از کجا
+      - ور شرم داری، یک قدح بر شرم افشان ساقیا
+    - - برخیز ای ساقی بیا، ای دشمن شرم و حیا
+      - تا بخت ما خندان شود، پیش آی خندان ساقیا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 9
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh9
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 9
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh9
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

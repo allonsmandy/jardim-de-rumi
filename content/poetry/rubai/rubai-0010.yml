@@ -1,0 +1,27 @@
+id: rubai-0010
+category: rubai
+number: 10
+firstLine:
+  fa: از ذکر بسی نور فزاید مه را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - از ذکر بسی نور فزاید مه را
+      - در راه حقیقت آورد گمره را
+    - - هر صبح و نماز شام ورد خود ساز
+      - این گفتن لا اله الا الله را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 10
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh10
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 10
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh10
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,31 @@
+id: masnavi-1-0054
+category: masnavi-1
+number: 54
+sectionTitle:
+  fa: اعتراض نخچیران بر سخن خرگوش
+firstLine:
+  fa: قوم گفتندش که ای خر گوش‌دار
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - قوم گفتندش که ای خر گوش‌دار
+      - خویش را اندازهٔ خرگوش دار
+    - - هین چه لافست این که از تو بهتران
+      - در نیاوردند اندر خاطر آن
+    - - معجبی یا خود قضامان در پیست
+      - ور نه این دم لایق چون تو کیست
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 54
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh54
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 54
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh54
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

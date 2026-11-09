@@ -1,0 +1,41 @@
+id: masnavi-1-0131
+category: masnavi-1
+number: 131
+sectionTitle:
+  fa: در بیان آنک چنانک گدا عاشق کرمست و عاشق کریم، کرمِ کریم هم عاشق گداست اگر گدا را صبر بیش بود کریم بر در او آید و اگر کریم را صبر بیش بود گدا بر در او آید اما صبر گدا کمال گداست و صبر کریم نقصان اوست
+firstLine:
+  fa: بانگ می‌آمد که ای طالب بیا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بانگ می‌آمد که ای طالب بیا
+      - جود، محتاج گدایان چون گدا
+    - - جود می‌جوید گدایان و ضعاف
+      - همچو خوبان کآینه جویند صاف
+    - - روی خوبان ز آینه زیبا شود
+      - روی احسان از گدا پیدا شود
+    - - پس ازین فرمود حق در والضحی
+      - بانگ کم زن ای محمد بر گدا
+    - - چون گدا آیینهٔ جودست هان
+      - دم بود بر روی آیینه زیان
+    - - آن یکی جودش گدا آرد پدید
+      - و آن دگر بخشد گدایان را مزید
+    - - پس گدایان آیت جود حقند
+      - وانک با حقند جود مطلقند
+    - - وانک جز این دوست او خود مرده‌ایست
+      - او برین در نیست نقش پرده‌ایست
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 131
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh131
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 131
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh131
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

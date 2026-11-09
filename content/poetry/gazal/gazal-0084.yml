@@ -1,0 +1,33 @@
+id: gazal-0084
+category: gazal
+number: 84
+firstLine:
+  fa: چون گل همه تن خندم نه از راه دهان تنها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چون گل همه تن خندم نه از راه دهان تنها
+      - زیرا که منم بی‌من با شاهِ جهان تنها
+    - - ای مشعله آورده دل را به سحر برده
+      - جان را برسان در دل دل را مَسِتان تنها
+    - - از خشم و حسد جان را بیگانه مکن با دل
+      - آن را مگذار اینجا وین را بمخوان تنها
+    - - شاهانه پیامی کن یک دعوتِ عامی کن
+      - تا کی بود ای سلطان این با تو و آن تنها ؟
+    - - چون دوش اگر امشب نایی و ببندی لب
+      - صد شور کنیم ای جان نکنیم فغان تنها
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 84
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh84
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 84
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh84
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

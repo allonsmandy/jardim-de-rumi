@@ -1,0 +1,27 @@
+id: rubai-0025
+category: rubai
+number: 25
+firstLine:
+  fa: ای سبزی هر درخت و هر باغ و گیا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای سبزی هر درخت و هر باغ و گیا
+      - ای دولت و اقبال من و کار و کیا
+    - - ای خلوت و ای سماع و اخلاص و ریا
+      - بی‌حضرت تو این همه سوداست بیا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 25
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh25
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 25
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh25
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

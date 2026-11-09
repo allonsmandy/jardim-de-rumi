@@ -1,0 +1,27 @@
+id: rubai-0041
+category: rubai
+number: 41
+firstLine:
+  fa: جز عشق نبود هیچ دمساز مرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - جز عشق نبود هیچ دمساز مرا
+      - نی اول و نی آخر و آغاز مرا
+    - - جان می‌دهد از درونه آواز مرا
+      - کی کاهل راه عشق درباز مرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 41
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh41
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 41
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh41
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

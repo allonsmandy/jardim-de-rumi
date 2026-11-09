@@ -1,0 +1,35 @@
+id: masnavi-1-0119
+category: masnavi-1
+number: 119
+sectionTitle:
+  fa: در بیان این خبر کی انهن یغلبن العاقل و یغلبهن الجاهل
+firstLine:
+  fa: گفت پیغامبر که زن بر عاقلان
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفت پیغامبر که زن بر عاقلان
+      - غالب آید سخت و بر صاحب‌دلان
+    - - باز بر زن جاهلان چیره شوند
+      - زانک ایشان تند و بس خیره روند
+    - - کم بودشان رقت و لطف و وداد
+      - زانک حیوانیست غالب بر نهاد
+    - - مهر و رقت وصف انسانی بود
+      - خشم و شهوت وصف حیوانی بود
+    - - پرتو حقست آن معشوق نیست
+      - خالقست آن گوییا مخلوق نیست
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 119
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh119
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 119
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh119
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

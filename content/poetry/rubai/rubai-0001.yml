@@ -1,0 +1,27 @@
+id: rubai-0001
+category: rubai
+number: 1
+firstLine:
+  fa: آن دل که شد او قابل انوار خدا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن دل که شد او قابل انوار خدا
+      - پر باشد جان او ز اسرار خدا
+    - - زنهار تن مرا چو تنها مشمر
+      - کو جمله نمک شد به نمک‌زار خدا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 1
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh1
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 1
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh1
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

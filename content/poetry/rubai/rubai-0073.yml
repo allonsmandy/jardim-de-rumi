@@ -1,0 +1,27 @@
+id: rubai-0073
+category: rubai
+number: 73
+firstLine:
+  fa: می‌آمد یار مست و تنها تنها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - می‌آمد یار مست و تنها تنها
+      - با نرگس پرخمار رعنا رعنا
+    - - جستم که یکی بوسه ستانم ز لبش
+      - فریاد برآورد که یغما یغما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 73
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh73
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 73
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh73
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

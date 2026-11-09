@@ -1,0 +1,27 @@
+id: rubai-0082
+category: rubai
+number: 82
+firstLine:
+  fa: امشب ز برای دل اصحاب مخسب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - امشب ز برای دل اصحاب مخسب
+      - گوش شب را بگیر و برتاب مخسب
+    - - گویند که فتنه خفته بهتر باشد
+      - بیدار بهی تو فتنه مشتاب مخسب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 82
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh82
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 82
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh82
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

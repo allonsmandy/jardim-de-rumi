@@ -1,0 +1,470 @@
+# Glossário do Jardim de Rumi — termos explicados para quem nunca leu poesia persa.
+# short: frase simples mostrada no balão; definition: explicação completa (página /glossario);
+# aliases: formas em que a palavra aparece nos textos, para ser destacada automaticamente.
+
+- id: rumi
+  term: Rumi
+  termFa: مولوی
+  transliteration: Jalāl od-Din Mohammad Balkhi (Mowlānā, Mowlavi)
+  short: Poeta místico persa do século XIII (1207–1273). Nasceu na região de Balkh, no atual Afeganistão, e viveu em Konya, na atual Turquia. Escreveu o Masnavi e o Divã de Shams.
+  definition: >-
+    Jalal al-Din Mohammad nasceu em 1207 na região de Balkh, filho de um pregador e teólogo. A família
+    emigrou para o oeste pouco antes das invasões mongóis e se fixou em Konya, na Anatólia — região que
+    os persas chamavam de "Rum" (a terra dos romanos), daí o apelido "Rumi". Foi professor e pregador
+    respeitado até conhecer Shams de Tabriz, em 1244, encontro que o transformou em poeta. No Irã e no
+    Afeganistão é chamado de Mowlana ("nosso mestre") ou Mowlavi. Morreu em Konya em dezembro de 1273.
+  aliases: [Rumi, Mowlana, Mowlavi]
+
+- id: shams
+  term: Shams de Tabriz
+  termFa: شمس تبریزی
+  transliteration: Shams-e Tabrizi
+  short: Um dervixe errante que chegou a Konya em 1244 e se tornou o grande amigo e mestre de Rumi. "Shams" quer dizer "sol".
+  definition: >-
+    Shams al-Din, de Tabriz, era um místico andarilho, de fala dura e imprevisível. Seu encontro com
+    Rumi, em 1244, mudou a vida do professor respeitado: Rumi passou a dedicar-se à música, à dança e
+    à poesia. Os discípulos de Rumi, enciumados, hostilizavam Shams, que partiu, voltou e, por volta
+    de 1247–1248, desapareceu de vez. Segundo uma lenda posterior, teria sido assassinado; não há
+    certeza. A dor dessa ausência atravessa o Divã de Shams.
+  aliases: [Shams de Tabriz, Shams-e Tabrizi, Shams]
+
+- id: masnavi
+  term: Masnavi
+  termFa: مثنوی
+  transliteration: masnavi
+  short: Poema longo em que cada par de versos tem a sua própria rima. É também o nome da grande obra de Rumi, em seis livros.
+  definition: >-
+    No masnavi, os dois versos de cada dístico rimam entre si, e a rima muda a cada dístico. Isso
+    permite contar histórias muito longas. O "Masnavi-ye ma‘navi" ("dísticos do sentido interior") de
+    Rumi tem seis livros e cerca de 25 mil dísticos. Foi ditado nos últimos quinze anos da vida dele a
+    Hosam al-Din, e mistura histórias, piadas, comentários do Alcorão e ensinamentos, uma história
+    puxando a outra.
+  aliases: [masnavi, masnavis, Masnavi]
+
+- id: divan-shams
+  term: Divã de Shams
+  termFa: دیوان شمس
+  transliteration: Divān-e Shams
+  short: A coletânea dos poemas líricos de Rumi — gazéis, quadras e poemas com refrão. Muitos terminam com o nome de Shams de Tabriz.
+  definition: >-
+    O Divã de Shams (também chamado Divã-e Kabir, "o grande divã") reúne a poesia lírica de Rumi:
+    mais de três mil gazéis, quase dois mil rubaiyat e algumas dezenas de poemas com refrão. Muitos
+    poemas nasceram, segundo a tradição, durante o samâ', a reunião de música e dança dos sufis. Ao
+    pôr o nome de Shams no lugar do seu, Rumi apresenta o amigo como a verdadeira voz dos poemas.
+  aliases: [Divã de Shams, Divã-e Kabir]
+
+- id: divan
+  term: Divã
+  termFa: دیوان
+  transliteration: divān
+  short: O livro que reúne os poemas líricos de um poeta persa. O Divã de Rumi é chamado de "Divã de Shams", em homenagem ao seu amigo.
+  definition: >-
+    Na tradição persa, "divã" é a coletânea dos poemas de um autor. O de Rumi é enorme: tem mais de
+    três mil gazéis e quase dois mil rubaiyat. É conhecido como "Divã de Shams" ou "Divã-e Kabir" (o
+    grande divã), porque muitos poemas são assinados com o nome de Shams de Tabriz em vez do nome do
+    próprio Rumi.
+  aliases: [Divã, divã]
+
+- id: ney
+  term: Flauta de junco (ney)
+  termFa: نی
+  transliteration: ney
+  short: Uma flauta feita de um caule de junco. O Masnavi começa com ela "contando a sua história" e chorando a separação do canavial de onde foi cortada.
+  definition: >-
+    O ney é uma flauta simples, de som grave e soprado, até hoje central na música persa e turca e
+    nas cerimônias dos dervixes giradores. Nos primeiros versos do Masnavi, Rumi faz da flauta um
+    símbolo da alma: cortada do canavial, ela geme de saudade e quer voltar à origem. Esses versos
+    são chamados de "Canção da flauta" (Ney-nameh).
+  aliases: [ney, flauta de junco]
+
+- id: sama
+  term: Samâ‘
+  termFa: سماع
+  transliteration: samā‘
+  short: '"Escuta". A reunião em que os sufis ouvem música e poesia e às vezes dançam, buscando o êxtase. Rumi amava o samâ‘.'
+  definition: >-
+    Samâ‘ quer dizer "audição". Era uma prática sufi controversa: alguns mestres a condenavam, outros a
+    viam como caminho para Deus. Depois de conhecer Shams, Rumi passou a participar dela com
+    frequência, e muitos dos seus gazéis, segundo a tradição, foram ditos durante essas reuniões. Mais
+    tarde, a ordem Mevlevi transformou o samâ‘ numa cerimônia com regras, a dança giratória.
+  aliases: [samâ‘, sama]
+
+- id: khamush
+  term: Silêncio (khamush)
+  termFa: خاموش
+  transliteration: khāmush
+  short: '"Silêncio!" ou "calado". Rumi termina muitos gazéis com essa palavra, como quem fecha a boca diante do que não se pode dizer.'
+  definition: >-
+    Khamush quer dizer "calado, silencioso". No fim de muitos gazéis, Rumi se dirige a si mesmo:
+    "cala-te!". Os leitores a entendem como uma espécie de assinatura — o poeta que fala sem parar
+    lembrando que o essencial está além das palavras. Alguns estudiosos acham que Rumi chegou a usá-la
+    como nome poético.
+  aliases: [khamush]
+
+- id: hafez
+  term: Hafez
+  termFa: حافظ
+  transliteration: Hāfez
+  short: Poeta persa de Shiraz, do século XIV, mestre do gazel. Nasceu cerca de quarenta anos depois da morte de Rumi.
+  definition: >-
+    Hafez (c. 1315–1390) viveu em Shiraz, no sul do Irã. Seus gazéis, cheios de ironia e ambiguidade,
+    são os mais lidos e cantados no Irã. Rumi e Hafez são muitas vezes comparados: Rumi, o místico do
+    êxtase e da torrente de palavras; Hafez, o lapidador de cada verso.
+  aliases: [Hafez]
+
+- id: gazel
+  term: Gazel
+  termFa: غزل
+  transliteration: ghazal
+  short: Um poema curto e musical, com vários pares de versos que terminam todos com o mesmo som. É a forma da maior parte do Divã de Shams.
+  definition: >-
+    O gazel é um poema lírico com uma única rima do começo ao fim. Cada par de versos é quase
+    independente, como as contas de um colar: o que une o poema é a rima, o ritmo e as imagens. No
+    último par, o poeta costuma "assinar". Os gazéis de Rumi são muito musicais e às vezes bem mais
+    longos que os de outros poetas — feitos para serem cantados e dançados.
+  aliases: [gazel, gazéis, Gazel, Gazéis]
+
+- id: disticos
+  term: Dístico
+  termFa: بیت
+  transliteration: beyt
+  short: Um par de versos que forma uma ideia completa. Os poemas persas são construídos de dístico em dístico.
+  definition: >-
+    Na poesia persa, a unidade básica não é o verso, mas o par de versos (beyt). Cada metade se chama
+    hemistíquio. Neste site, cada dístico persa aparece ao lado da tradução, e cada um tem sua
+    explicação.
+  aliases: [dístico, dísticos, Dístico, bayt, beyt]
+
+- id: hemistiquio
+  term: Hemistíquio
+  termFa: مصراع
+  transliteration: mesrā'
+  short: Cada uma das duas metades de um dístico — ou seja, cada um dos dois versos do par.
+  definition: >-
+    O dístico persa se divide em duas metades, os hemistíquios (mesra'). Na página impressa persa, eles
+    costumam aparecer lado a lado, na mesma linha; aqui aparecem um embaixo do outro.
+  aliases: [hemistíquio, hemistíquios]
+
+- id: radif
+  term: Radif
+  termFa: ردیف
+  transliteration: radif
+  short: Uma palavra que se repete no fim de todos os pares de versos do poema, como um refrão.
+  definition: >-
+    Em muitos gazéis, depois da rima vem sempre a mesma palavra, repetida em todos os dísticos. Essa
+    palavra é o radif. No gazel 2, o radif é "kojā" (onde?) — e o poema inteiro soa como uma pergunta
+    insistente.
+  aliases: [radif]
+
+- id: takhallos
+  term: Assinatura (takhallos)
+  termFa: تخلص
+  transliteration: takhallos
+  short: O nome que o poeta coloca no último par de versos, como uma assinatura. Rumi quase nunca usa o próprio nome — assina com o de Shams ou com a palavra "Silêncio".
+  definition: >-
+    O takhallos é o nome poético do autor, colocado no fim do gazel. Rumi faz algo raro: em vez de
+    "Rumi" ou "Jalal", assina muitas vezes com o nome do amigo, Shams de Tabriz, como se o poema fosse
+    dele. Em outros gazéis, a última palavra é "khamush", "silêncio" — o poeta manda a si mesmo calar,
+    porque o que sente não cabe em palavras.
+  aliases: [takhallos, assinatura]
+
+- id: alcorao
+  term: Alcorão
+  termFa: قرآن
+  transliteration: Qor'ān
+  short: O livro sagrado do Islã, escrito em árabe. Para os muçulmanos, é a palavra de Deus revelada ao profeta Maomé.
+  definition: >-
+    O Alcorão (ou Corão) é o livro sagrado dos muçulmanos. É escrito em árabe e dividido em capítulos
+    chamados suras. Conta também histórias que aparecem na Bíblia, como a de José do Egito. O Masnavi
+    cita e comenta o Alcorão tantas vezes que já foi chamado de "o Alcorão em língua persa".
+  aliases: [Alcorão, Corão, corânica, corânicas]
+
+- id: islam
+  term: Islã
+  termFa: اسلام
+  transliteration: eslām
+  short: A religião dos muçulmanos, que chegou à Pérsia (atual Irã) no século VII. Na época de Rumi, o mundo persa era muçulmano havia seis séculos.
+  definition: >-
+    O Islã é a religião fundada pelo profeta Maomé na Arábia, no século VII. A Pérsia foi conquistada
+    pelos árabes e se tornou muçulmana; a língua árabe passou a ser a língua da religião e do estudo,
+    enquanto o persa continuou a língua da poesia. A lei religiosa islâmica proíbe o vinho — e é por
+    isso que o vinho dos poetas místicos é tão provocador.
+  aliases: [Islã, islâmica, islâmico, islâmicos, muçulmanos, muçulmano]
+
+- id: arabe
+  term: Versos em árabe
+  termFa: عربی
+  transliteration: 'arabi'
+  short: O árabe era a língua da religião e dos estudos no Irã. Quando Rumi escreve um verso em árabe no meio do persa, soa solene, quase como uma oração.
+  definition: >-
+    O árabe e o persa são línguas muito diferentes (como português e alemão), mas usam o mesmo
+    alfabeto. No tempo de Rumi, todo homem culto lia árabe, a língua do Alcorão. Misturar versos árabes
+    num poema persa era uma demonstração de habilidade e dava um tom elevado ao poema.
+  aliases: [árabe]
+
+- id: saqi
+  term: Copeiro (saqi)
+  termFa: ساقی
+  transliteration: sāqi
+  short: Quem serve o vinho numa festa. Nos poemas, é ao mesmo tempo um jovem bonito que serve a bebida e uma figura espiritual que "serve" o amor de Deus.
+  definition: >-
+    O saqi é quem enche as taças nas reuniões. Na poesia persa, é uma figura concreta (um jovem
+    belo que serve o vinho) e também espiritual: aquele que oferece a "embriaguez" do amor e do
+    conhecimento. Os leitores persas mantêm os dois sentidos vivos ao mesmo tempo.
+  aliases: [copeiro, copeiros, saqi, Copeiro]
+
+- id: vinho
+  term: Vinho
+  termFa: می
+  transliteration: mey
+  short: Nos poemas persas, o vinho é o vinho de verdade (proibido pela religião) e também o símbolo da alegria e do amor que fazem a pessoa "sair de si".
+  definition: >-
+    Um dos grandes símbolos da poesia persa. Pode ser o vinho real — proibido pela lei islâmica, o que o
+    torna símbolo de liberdade contra a hipocrisia — e também o êxtase do amor divino, que tira a
+    pessoa de si mesma. Os leitores discutem há séculos qual sentido vale mais; o poema quase sempre
+    sustenta os dois, e a tradução não decide por você.
+  aliases: [vinho]
+
+- id: sufi
+  term: Sufi, sufismo
+  termFa: صوفی
+  transliteration: sufi
+  short: O sufismo é o lado místico do Islã — pessoas que buscam se unir a Deus pelo amor. Rumi foi um mestre sufi, e seus seguidores fundaram uma ordem sufi.
+  definition: >-
+    O sufismo é a dimensão mística do Islã: busca a união com Deus pelo amor, pela música, pela
+    meditação e pela purificação interior. Os sufis viviam em comunidades com um mestre e usavam um
+    manto remendado. Rumi era filho de um pregador ligado a essa tradição e foi, ele mesmo, um mestre
+    sufi; depois da sua morte, os discípulos fundaram a ordem Mevlevi.
+  aliases: [sufi, sufis, sufismo, Sufi]
+
+- id: kherqe
+  term: Manto (kherqe)
+  termFa: خرقه
+  transliteration: kherqe
+  short: O manto remendado que os sufis usavam para mostrar que eram religiosos. Nos poemas, pode ser sinal de devoção sincera ou de fingimento.
+  definition: >-
+    O manto remendado de lã que identificava o sufi e era recebido de um mestre. Nos poetas, é muitas
+    vezes símbolo de hipocrisia — o poeta fala em trocá-lo por vinho ou em manchá-lo de vinho.
+  aliases: [manto, kherqe]
+
+- id: dervixe
+  term: Dervixe
+  termFa: درویش
+  transliteration: darvish
+  short: Quer dizer "pobre". É a pessoa que abriu mão dos bens materiais para se dedicar à vida espiritual.
+  definition: >-
+    Literalmente "pobre". Designa o místico que renunciou aos bens do mundo; por extensão, qualquer
+    pessoa humilde. O poeta muitas vezes se apresenta como um dervixe diante de um amado poderoso.
+  aliases: [dervixe, dervixes]
+
+- id: xeque
+  term: Xeque
+  termFa: شیخ
+  transliteration: sheykh
+  short: Um líder religioso respeitado. Nos poemas, costuma ser o moralista sério que reprova o vinho e o amor.
+  definition: >-
+    "Sheykh" é o ancião, o mestre religioso ou o pregador. Pode ser o
+    mestre espiritual respeitado ou, na ironia dos poetas, o moralista que condena os outros.
+  aliases: [xeque]
+
+- id: rosa-rouxinol
+  term: A rosa e o rouxinol
+  termFa: گل و بلبل
+  transliteration: gol o bolbol
+  short: O casal mais famoso da poesia persa. O rouxinol (o apaixonado) canta para a rosa (a amada), que é linda, dura pouco e não liga para ele.
+  definition: >-
+    O rouxinol canta a noite inteira, apaixonado pela rosa, que é bela, efêmera e indiferente. O
+    rouxinol é o amante (e o poeta); a rosa, o amado. Quase todo poema persa de amor brinca com esse par.
+  aliases: [rouxinol]
+
+- id: amado
+  term: O amado
+  termFa: یار
+  transliteration: yār
+  short: A pessoa amada no poema. Em persa não existe "ele" ou "ela" — é a mesma palavra —, então o amado pode ser homem, mulher ou até Deus.
+  definition: >-
+    O persa não tem gênero gramatical: "ele" e "ela" são a mesma palavra (u). Por isso o amado de
+    Rumi pode ser lido como mulher, como homem jovem (convenção poética da época) ou como Deus. Nas
+    traduções, evitamos fixar o gênero quando o original não fixa.
+  aliases: [amado, amada]
+
+- id: jose-zuleica
+  term: José e Zuleica
+  termFa: یوسف و زلیخا
+  transliteration: Yusof o Zoleykhā
+  short: Uma história de amor que está na Bíblia e no Alcorão. José era o homem mais bonito do mundo, e Zuleica se apaixonou perdidamente por ele.
+  definition: >-
+    José (Yusuf) foi vendido como escravo pelos irmãos, que antes o jogaram num poço, e acabou no
+    Egito. A esposa do seu senhor — chamada Zuleica na tradição persa — apaixonou-se por ele. Na poesia
+    persa, José é o símbolo máximo da beleza, e Zuleica, da paixão que vence todas as regras.
+  aliases: [José, Zuleica]
+
+- id: majnun
+  term: Majnun
+  termFa: مجنون
+  transliteration: Majnun
+  short: Personagem de uma lenda de amor (como Romeu e Julieta). Ele ficou tão louco de amor por Layla que foi viver no deserto, entre os animais.
+  definition: >-
+    "Majnun" quer dizer "louco". Na lenda árabe, recontada por poetas persas como Nezami, o jovem Qays
+    ama Layla, é impedido de casar com ela e enlouquece, vagando pelo deserto. É o modelo do amante que
+    perde tudo por amor.
+  aliases: [Majnun]
+
+- id: mongois
+  term: Mongóis
+  termFa: مغول
+  transliteration: moghol
+  short: Povo da Ásia Central que, no século XIII, conquistou um império enorme, incluindo o Irã. A família de Rumi deixou a sua terra pouco antes da chegada deles.
+  definition: >-
+    Por volta de 1220, os exércitos de Gengis Khan arrasaram cidades da Ásia Central e do Coração —
+    entre elas Balkh, a região natal de Rumi, que a família já havia deixado. Em 1243, os mongóis
+    venceram também os sultões seljúcidas da Anatólia, e Konya passou a pagar tributo a eles: Rumi
+    viveu boa parte da vida adulta sob esse domínio. Mais tarde, um neto de Gengis Khan, Hulagu,
+    fundou no Irã a dinastia dos Ilkhanidas.
+  aliases: [mongol, mongóis, Mongol, Mongóis]
+
+- id: sultao
+  term: Sultão
+  termFa: سلطان
+  transliteration: soltān
+  short: Título de um governante no mundo islâmico — algo como "rei" ou "soberano".
+  definition: >-
+    A palavra vem do árabe e quer dizer "poder, autoridade". Na época de Rumi, era usada por reis e
+    príncipes do Irã, da Ásia Central e da Índia. Na poesia, o amado muitas vezes é chamado de sultão:
+    quem manda no coração do amante.
+  aliases: [sultão, sultões, Sultão]
+
+- id: saadi
+  term: Saadi
+  termFa: سعدی
+  transliteration: Sa‘di
+  short: Grande poeta persa do século XIII, de Shiraz, contemporâneo de Rumi. Autor do Golestan ("Jardim de Rosas").
+  definition: >-
+    Saadi (c. 1210–1291) viajou muito e voltou a Shiraz, no sul do Irã, onde escreveu o Bustan e o
+    Golestan, livros de histórias e conselhos em prosa e verso que todo iraniano conhece. Viveu na
+    mesma época que Rumi, mas a milhares de quilômetros: não há notícia segura de que tenham se
+    conhecido.
+  aliases: [Saadi]
+
+- id: nezami
+  term: Nezami
+  termFa: نظامی گنجوی
+  transliteration: Nezāmi Ganjavi
+  short: Poeta persa do século XII, mestre das grandes histórias em verso — entre elas a de Leyli e Majnun.
+  definition: >-
+    Nezami (c. 1141–1209) viveu em Ganja, no atual Azerbaijão. Suas cinco epopeias românticas, a
+    Khamseh, inspiraram séculos de poetas e pintores de miniaturas.
+  aliases: [Nezami]
+
+- id: attar
+  term: Attar de Nishapur
+  termFa: عطار نیشابوری
+  transliteration: Farid od-Din ‘Attār
+  short: Poeta místico persa (morto por volta de 1221), autor da "Conferência dos Pássaros". Não confundir com outros homens chamados Attar ("perfumista").
+  definition: >-
+    Farid al-Din Attar escreveu A Conferência dos Pássaros, em que trinta pássaros partem em busca do
+    rei das aves e descobrem que ele são eles mesmos — uma das grandes alegorias da mística sufi.
+  aliases: [Attar de Nishapur]
+
+- id: shajarian
+  term: Shajarian
+  termFa: محمدرضا شجریان
+  transliteration: Mohammad-Rezā Shajariān
+  short: O mais célebre cantor da música tradicional persa (1940–2020). Gravou poemas de Rumi, Hafez e outros clássicos.
+  definition: >-
+    Mohammad-Reza Shajarian foi a grande voz da música clássica iraniana no século XX. Para muitos
+    iranianos, ouvir os clássicos cantados por ele é a forma mais natural de conhecer os poemas.
+  aliases: [Shajarian]
+
+- id: nowruz
+  term: Nowruz
+  termFa: نوروز
+  transliteration: nowruz
+  short: O Ano Novo persa, celebrado no início da primavera (20 ou 21 de março). É a maior festa do calendário iraniano.
+  definition: >-
+    Nowruz quer dizer "dia novo". A festa, muito anterior ao islã, marca o equinócio da primavera e é
+    celebrada no Irã, no Afeganistão, na Ásia Central e em outros lugares. As famílias montam a mesa
+    do haft-sin, com sete objetos simbólicos, e muitas incluem um livro de poesia.
+  aliases: [Nowruz, Ano Novo persa]
+
+- id: rubai
+  term: Rubai
+  termFa: رباعی
+  transliteration: robā'i
+  short: Uma quadra — poema de quatro versos que diz tudo de uma vez, como um bilhete ou um aforismo. O plural é rubaiyat.
+  definition: >-
+    O rubai é a forma mais curta da poesia persa: quatro versos, em geral com o primeiro, o segundo e
+    o quarto rimando entre si. Os dois primeiros versos preparam, o último dá a virada, como numa
+    piada bem contada ou num provérbio. O poeta mais famoso por rubaiyat é Omar Khayyam. O Divã
+    de Shams tem quase dois mil, mas muitos foram atribuídos a Rumi sem certeza — quadras soltas
+    circulavam de boca em boca e acabavam no nome de poetas famosos.
+  aliases: [rubai, rubaiyat, Rubai, Rubaiyat]
+
+- id: mevlevi
+  term: Mevlevi (dervixes giradores)
+  termFa: مولویه
+  transliteration: Mowlaviyye (turco Mevlevî)
+  short: A ordem sufi fundada pelos seguidores de Rumi, famosa pela dança em que os dervixes giram com saias brancas abertas.
+  definition: >-
+    Depois da morte de Rumi, seu filho Sultan Valad organizou os discípulos numa ordem, que levou o
+    nome do mestre (Mowlana → Mevlevi). A ordem se espalhou pelo Império Otomano e criou a cerimônia
+    do giro, ao som do ney e de poemas de Rumi. Na Turquia, as ordens sufis foram proibidas em 1925;
+    a cerimônia continua sendo apresentada e foi reconhecida pela UNESCO como patrimônio imaterial.
+  aliases: [Mevlevi, dervixes giradores]
+
+- id: konya
+  term: Konya
+  termFa: قونیه
+  transliteration: Qunie
+  short: Cidade da Anatólia, na atual Turquia, onde Rumi viveu quase toda a vida adulta e está enterrado.
+  definition: >-
+    No século XIII, Konya era a capital dos sultões seljúcidas da Anatólia, uma corte onde se falava e
+    escrevia persa. A família de Rumi se instalou ali por volta de 1228. Seu túmulo, sob uma cúpula
+    verde, é hoje um museu e um dos lugares mais visitados da Turquia.
+  aliases: [Konya]
+
+- id: balkh
+  term: Balkh
+  termFa: بلخ
+  transliteration: Balkh
+  short: Antiga cidade do Coração, no norte do atual Afeganistão. Rumi é chamado de "Balkhi" porque nasceu nessa região.
+  definition: >-
+    Balkh foi uma das grandes cidades da Ásia Central. Rumi nasceu na região em 1207 (alguns
+    estudiosos apontam a cidade vizinha de Vakhsh, no atual Tajiquistão). A família partiu ainda na
+    infância dele, pouco antes de os mongóis devastarem a cidade. Por isso, no Irã e no Afeganistão,
+    ele é chamado de Mowlana Jalal al-Din Balkhi.
+  aliases: [Balkh, Balkhi]
+
+- id: hosam
+  term: Hosam al-Din Chalabi
+  termFa: حسام‌الدین چلبی
+  transliteration: Hosām od-Din Chalabi
+  short: Discípulo querido de Rumi. Foi ele quem pediu o Masnavi e anotou os versos enquanto o mestre os ditava.
+  definition: >-
+    Hosam al-Din foi um dos companheiros mais próximos de Rumi nos últimos anos. Segundo os relatos
+    antigos, pediu ao mestre um livro de poesia mística para os discípulos, e Rumi respondeu com os
+    primeiros versos do Masnavi. Rumi o chama pelo nome várias vezes no poema, como a quem o livro é
+    dedicado.
+  aliases: [Hosam al-Din, Hosam]
+
+- id: sultan-valad
+  term: Sultan Valad
+  termFa: سلطان ولد
+  transliteration: Soltān Valad
+  short: Filho mais velho de Rumi, também poeta. Organizou os seguidores do pai na ordem Mevlevi e escreveu sobre a vida dele.
+  definition: >-
+    Baha al-Din Mohammad, conhecido como Sultan Valad (1226–1312), foi discípulo do pai e amigo de
+    Shams. Escreveu poemas que contam a história de Rumi e de Shams — uma das fontes mais antigas
+    sobre eles. Deu forma à ordem Mevlevi depois da morte do pai.
+  aliases: [Sultan Valad]
+
+- id: tarji
+  term: Tarji‘-band
+  termFa: ترجیع‌بند
+  transliteration: tarji‘-band
+  short: Um poema em estrofes, cada uma com a sua rima, separadas por um mesmo verso que volta sempre, como um refrão.
+  definition: >-
+    No tarji‘-band, várias estrofes (cada uma parecida com um pequeno gazel) são amarradas por um
+    dístico que se repete igual entre elas. O refrão dá ao poema o jeito de uma canção. O Divã de
+    Shams tem algumas dezenas de poemas nessa forma.
+  aliases: [tarji‘-band, tarji‘-bands]

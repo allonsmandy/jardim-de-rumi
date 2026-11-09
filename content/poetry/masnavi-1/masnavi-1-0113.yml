@@ -1,0 +1,35 @@
+id: masnavi-1-0113
+category: masnavi-1
+number: 113
+sectionTitle:
+  fa: در بیان آنک نادر افتد کی مریدی در مدعی مزور اعتقاد بصدق ببندد کی او کسی است و بدین اعتقاد به مقامی برسد کی شیخش در خواب ندیده باشد و آب و آتش او را گزند نکند و شیخش را گزند کند ولیکن بنادر نادر
+firstLine:
+  fa: لیک نادر طالب آید کز فروغ
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - لیک نادر طالب آید کز فروغ
+      - در حق او نافع آید آن دروغ
+    - - او به قصد نیک خود جایی رسد
+      - گرچه جان پنداشت و آن آمد جسد
+    - - چون تحری در دل شب قبله را
+      - قبله نی و آن نماز او روا
+    - - مدعی را قحط جان اندر سرست
+      - لیک ما را قحط نان بر ظاهرست
+    - - ما چرا چون مدعی پنهان کنیم
+      - بهر ناموس مزور جان کنیم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 113
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh113
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 113
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh113
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

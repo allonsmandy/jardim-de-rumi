@@ -1,0 +1,27 @@
+id: rubai-0040
+category: rubai
+number: 40
+firstLine:
+  fa: جانا به هلاک بنده مستیز و بیا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - جانا به هلاک بنده مستیز و بیا
+      - رنگی که تو دانی تو برآمیز و بیا
+    - - ای مکر در آموخته هرجائی را
+      - یک مکر برای من درانگیز و بیا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 40
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh40
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 40
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh40
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

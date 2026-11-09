@@ -1,0 +1,49 @@
+id: masnavi-1-0111
+category: masnavi-1
+number: 111
+sectionTitle:
+  fa: قصهٔ اعرابی درویش و ماجرای زن با او به سبب قلت و درویشی
+firstLine:
+  fa: یک شب اعرابی‌زنی مر شوی را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - یک شب اعرابی‌زنی مر شوی را
+      - گفت و از حد برد گفت و گوی را
+    - - کین همه فقر و جفا ما می‌کشیم
+      - جمله عالم در خوشی ما ناخوشیم
+    - - نان‌مان نه، نان‌خورش‌مان درد و رشک
+      - کوزه‌مان نه، آب‌مان از دیده اشک
+    - - جامهٔ ما، روز تاب آفتاب
+      - شب، نهالین و لحاف از ماهتاب
+    - - قرص مه را قرص نان پنداشته
+      - دست سوی آسمان برداشته
+    - - ننگ درویشان ز درویشی ما
+      - روز شب، از روزی‌اندیشی ما
+    - - خویش و بیگانه شده از ما رمان
+      - بر مثال سامری از مردمان
+    - - گر بخواهم از کسی یک مشت نسک
+      - مر مرا گوید خمش کن مرگ و جسک
+    - - مر عرب را فخر غزوست و عطا
+      - در عرب تو همچو اندر خط خطا
+    - - چه غزا ما بی‌غزا خود کشته‌ایم
+      - ما به تیغ فقر بی‌سر گشته‌ایم
+    - - چه عطا ما بر گدایی می‌تنیم
+      - مر مگس را در هوا رگ می‌زنیم
+    - - گر کسی مهمان رسد گر من منم
+      - شب بخسپد، دلقش از تن بر کنم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 111
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh111
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 111
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh111
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,33 @@
+id: gazal-0019
+category: gazal
+number: 19
+firstLine:
+  fa: امروز دیدم یار را آن رونق هر کار را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - امروز دیدم یار را آن رونق هر کار را
+      - می‌شد روان بر آسمان همچون روان مصطفا
+    - - خورشید از رویش خجل گردون مشبک همچو دل
+      - از تابش او آب و گل افزون ز آتش در ضیا
+    - - گفتم که بنما نردبان تا برروم بر آسمان
+      - گفتا سر تو نردبان سر را درآور زیر پا
+    - - چون پای خود بر سر نهی پا بر سر اختر نهی
+      - چون تو هوا را بشکنی پا بر هوا نه هین بیا
+    - - بر آسمان و بر هوا صد ره پدید آید تو را
+      - بر آسمان پران شوی هر صبحدم همچون دعا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 19
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh19
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 19
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh19
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

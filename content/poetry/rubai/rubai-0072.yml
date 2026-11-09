@@ -1,0 +1,27 @@
+id: rubai-0072
+category: rubai
+number: 72
+firstLine:
+  fa: مولای اناالتائب مما سلفا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مولای اناالتائب مما سلفا
+      - هل تقبل عذر عاشق قد تلفا
+    - - این کان ندامتی صدودا و جفا
+      - مولای عفی‌الله عفی‌الله عفا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 72
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh72
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 72
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh72
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

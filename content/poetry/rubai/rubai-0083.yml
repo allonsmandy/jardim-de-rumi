@@ -1,0 +1,27 @@
+id: rubai-0083
+category: rubai
+number: 83
+firstLine:
+  fa: اندیشه مکن بکن تو خود را در خواب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اندیشه مکن بکن تو خود را در خواب
+      - کاندیشه ز روی مه حجابست حجاب
+    - - دل چون ماهست در دل اندیشه مدار
+      - انداز تو اندیشه گری را در آب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 83
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh83
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 83
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh83
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

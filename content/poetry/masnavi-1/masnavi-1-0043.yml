@@ -1,0 +1,33 @@
+id: masnavi-1-0043
+category: masnavi-1
+number: 43
+sectionTitle:
+  fa: جواب گفتن شیر نخچیران را و فایدهٔ جهد گفتن
+firstLine:
+  fa: گفت آری گر وفا بینم نه مکر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفت آری گر وفا بینم نه مکر
+      - مکر‌ها بس دیده‌ام از زید و بکر
+    - - من هلاک فعل و مکر مردمم
+      - من گَزیدهٔ زخم مار و کَژدمم
+    - - مَردمِ نَفس از درونم در کمین
+      - از همه مردم بتر در مکر و کین
+    - - گوشِ من لایُلْدَغُ المُؤمن شنید
+      - قول پیغامبر به‌جان و دل گُزید
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 43
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh43
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 43
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh43
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

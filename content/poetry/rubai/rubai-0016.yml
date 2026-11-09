@@ -1,0 +1,27 @@
+id: rubai-0016
+category: rubai
+number: 16
+firstLine:
+  fa: ای اشک روان بگو دل‌افزای مرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای اشک روان بگو دل‌افزای مرا
+      - آن باغ و بهار و آن تماشای مرا
+    - - چون یاد کنی شبی تو شبهای مرا
+      - اندیشه مکن بی‌ادبیهای مرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 16
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh16
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 16
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh16
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

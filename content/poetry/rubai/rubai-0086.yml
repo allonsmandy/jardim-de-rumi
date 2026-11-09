@@ -1,0 +1,27 @@
+id: rubai-0086
+category: rubai
+number: 86
+firstLine:
+  fa: ای آنکه تو یوسف منی من یعقوب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای آنکه تو یوسف منی من یعقوب
+      - ای آنکه تو صحت تنی من ایوب
+    - - من خود چه کسم ای همه را تو محبوب
+      - من دست همی‌زنم تو پائی میکوب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 86
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh86
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 86
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh86
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

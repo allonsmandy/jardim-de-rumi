@@ -1,0 +1,35 @@
+id: masnavi-1-0053
+category: masnavi-1
+number: 53
+sectionTitle:
+  fa: جواب گفتن خرگوش ایشان را
+firstLine:
+  fa: گفت ای یاران مرا مهلت دهید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفت ای یاران مرا مهلت دهید
+      - تا به مکرم از بلا بیرون جهید
+    - - تا امان یابد به مکرم جانتان
+      - ماند این میراث فرزندانتان
+    - - هر پیمبر امتان را در جهان
+      - همچنین تا مخلصی می‌خواندشان
+    - - کز فلک راه برون شو دیده بود
+      - در نظر چون مردمک پیچیده بود
+    - - مردمش چون مردمک دیدند خرد
+      - در بزرگی مردمک کس ره نبرد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 53
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh53
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 53
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh53
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

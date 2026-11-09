@@ -1,0 +1,41 @@
+id: masnavi-1-0015
+category: masnavi-1
+number: 15
+sectionTitle:
+  fa: قبول کردن نصاری مکر وزیر را
+firstLine:
+  fa: صد هزاران مرد ترسا سوی او
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صد هزاران مرد ترسا سوی او
+      - اندک‌اندک جمع شد در کوی او
+    - - او بیان می‌کرد با ایشان به راز
+      - سِرّ انگلیون و زنّار و نماز
+    - - او به ظاهر واعظ اَحکام بود
+      - لیک در باطن صفیر و دام بود
+    - - بهر این بعضی صَحابه از رسول
+      - مُلتمِس بودند مکرِ نفسِ غول
+    - - کو چه آمیزد ز اغراض نهان
+      - در عبادت‌ها و در اخلاصِ جان
+    - - فضلِ طاعت را نجُستَندی ازو
+      - عیب ظاهر را بجُستندی که کو؟
+    - - مو به مو و ذرّه ذره مکرِ نَفس
+      - می‌شناسیدند چون گُل از کرفس
+    - - موشکافانِ صحابه هم در آن
+      - وعظِ ایشان خیره گشتندی به جان
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 15
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh15
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 15
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh15
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

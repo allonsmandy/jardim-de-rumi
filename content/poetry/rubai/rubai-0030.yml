@@ -1,0 +1,27 @@
+id: rubai-0030
+category: rubai
+number: 30
+firstLine:
+  fa: با عشق روان شد از عدم مرکب ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - با عشق روان شد از عدم مرکب ما
+      - روشن ز شراب وصل دائم شب ما
+    - - زان می که حرام نیست در مذهب ما
+      - تا صبح عدم خشک نیابی لب ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 30
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh30
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 30
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh30
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

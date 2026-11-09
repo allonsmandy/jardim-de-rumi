@@ -1,0 +1,27 @@
+id: rubai-0090
+category: rubai
+number: 90
+firstLine:
+  fa: این باد سحر محرم رازست مخسب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - این باد سحر محرم رازست مخسب
+      - هنگام تضرع و نیاز است مخسب
+    - - بر خلق دو کون از ازل تا به ابد
+      - این در که نبسته است باز است مخسب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 90
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh90
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 90
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh90
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,27 @@
+id: rubai-0012
+category: rubai
+number: 12
+firstLine:
+  fa: انجیرفروش را چه بهتر جانا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - انجیرفروش را چه بهتر جانا
+      - انجیرفروشی ای برادر جانا
+    - - سرمست زییم و مست میریم ای جان
+      - هم مست دوان دوان به محشر جانا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 12
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh12
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 12
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh12
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

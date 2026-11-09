@@ -1,0 +1,27 @@
+id: rubai-0047
+category: rubai
+number: 47
+firstLine:
+  fa: دستان کسی دست‌زنان کرد مرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دستان کسی دست‌زنان کرد مرا
+      - بی‌حشمت و بی‌عقل روان کرد مرا
+    - - حاصل دل او دل مرا گردانید
+      - هر شکل که خواست آنچنان کرد مرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 47
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh47
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 47
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh47
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

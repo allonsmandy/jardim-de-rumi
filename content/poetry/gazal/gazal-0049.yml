@@ -1,0 +1,33 @@
+id: gazal-0049
+category: gazal
+number: 49
+firstLine:
+  fa: با تو حیات و زندگی بی‌تو فنا و مردنا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - با تو حیات و زندگی بی‌تو فنا و مردنا
+      - زانک تو آفتابی و بی‌تو بود فسردنا
+    - - خلق بر این بساط‌ها بر کف تو چو مهره‌ای
+      - هم ز تو ماه گشتنا هم ز تو مهره بردنا
+    - - گفت دمم چه می‌دهی دم به تو من سپرده‌ام
+      - من ز تو بی‌خبر نیم در دم دم سپردنا
+    - - پیش به سجده می‌شدم پشت خمیده چون شتر
+      - خنده زنان گشاد لب گفت درازگردنا
+    - - بین که چه خواهی کردنا بین که چه خواهی کردنا
+      - گردن دراز کرده‌ای پنبه بخواهی خوردنا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 49
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh49
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 49
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh49
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

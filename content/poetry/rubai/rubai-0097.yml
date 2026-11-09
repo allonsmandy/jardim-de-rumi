@@ -1,0 +1,27 @@
+id: rubai-0097
+category: rubai
+number: 97
+firstLine:
+  fa: خواب آمد و در چشم نبد موضع خواب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خواب آمد و در چشم نبد موضع خواب
+      - زیرا ز تو چشم بود پرآتش و آب
+    - - شد جانب دل دید دلی چون سیماب
+      - شد جانب تن دید خراب و چه خراب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 97
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh97
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 97
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh97
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

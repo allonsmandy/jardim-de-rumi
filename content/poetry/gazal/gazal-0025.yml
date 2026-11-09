@@ -1,0 +1,37 @@
+id: gazal-0025
+category: gazal
+number: 25
+firstLine:
+  fa: من دی نگفتم مر تو را کای بی‌نظیرِ خوش‌لقا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من دی نگفتم مر تو را کای بی‌نظیرِ خوش‌لقا
+      - ای قدِّ مَه از رشکِ تو چون آسمان گشته دوتا
+    - - امروز صد چندان شدی حاجب بُدی سلطان شدی
+      - هم یوسفِ کنعان شدی هم فرِّ نورِ مصطفی
+    - - امشب ستایمت ای پری فردا ز گفتن بگذری
+      - فردا زمین و آسمان در شرحِ تو باشد فنا
+    - - امشب غنیمت دارمت باشم غلام و چاکرت
+      - فردا مَلَک بی‌هُش شود هم عرش بشکافد قبا
+    - - ناگَه برآید صرصری نی بام ماند نه دَری
+      - زین پشِّگان پَر کِی زند چونکه ندارد پیل پا
+    - - باز از میانِ صرصرش درتابد آن حُسن و فرَش
+      - هر ذرّه‌ای خندان شود در فرِّ آن شمس‌الضحی
+    - - تعلیم گیرد ذرّه‌ها زان آفتابِ خوش‌لقا
+      - صد ذرّگیِ دلربا کان‌ها نبودش ز ابتدا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 25
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh25
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 25
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh25
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

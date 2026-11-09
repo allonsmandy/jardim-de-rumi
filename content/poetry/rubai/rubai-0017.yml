@@ -1,0 +1,27 @@
+id: rubai-0017
+category: rubai
+number: 17
+firstLine:
+  fa: ای باد سحر خبر بده مر ما را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای باد سحر خبر بده مر ما را
+      - در ره دیدی آن دل آتش‌پا را
+    - - دیدی دل پرآتش و پرسودا را
+      - کز آتش خود بسوخت صد خارا را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 17
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh17
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 17
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh17
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

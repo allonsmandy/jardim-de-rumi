@@ -1,0 +1,33 @@
+id: gazal-0004
+category: gazal
+number: 4
+firstLine:
+  fa: اِی یوسفِ خوش‌نام ما، خوش می‌روی بر بامِ ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اِی یوسفِ خوش‌نام ما، خوش می‌روی بر بامِ ما
+      - ای دَرشکسته جامِ ما، ای بردَریده دامِ ما
+    - - ای نورِ ما، ای سورِ ما، ای دولتِ منصورِ ما
+      - جوشی بِنِه در شورِ ما ،تا مِی شَوَد انگورِ ما
+    - - ای دلبر و مقصودِ ما، ای قبله و معبودِ ما
+      - آتش زدی در عودِ ما؛ نَظّاره کُن در دودِ ما
+    - - ای یارِ ما، عَیَّارِ ما، دامِ دلِ خَمّارِ ما
+      - پا وامَکش از کارِ ما؛ بِستان گِرو دَستارِ ما
+    - - در گِل بِمانده پایِ دل؛ جان می‌دهم چه جایِ دل
+      - وَز آتشِ سودایِ دل، ای وایِ دل، ای وایِ ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 4
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh4
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 4
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh4
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

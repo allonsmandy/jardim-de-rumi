@@ -1,0 +1,41 @@
+id: gazal-0081
+category: gazal
+number: 81
+firstLine:
+  fa: ای ساقی جان پر کن آن ساغر پیشین را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای ساقی جان پر کن آن ساغر پیشین را
+      - آن راهزن دل را آن راه‌بُر دین را
+    - - زان می که ز دل خیزد با روح درآمیزد
+      - مخمور کند جوشش مر چشم خدابین را
+    - - آن بادهٔ انگوری مر امت عیسی را
+      - و این بادهٔ منصوری مر امت یاسین را
+    - - خم‌هاست از آن باده، خم‌هاست از این باده
+      - تا نشکنی آن خم را، هرگز نچشی این را
+    - - آن باده به جز یک‌دم دل را نکند بی‌غم
+      - هرگز نکُشد غم را هرگز نکَنَد کین را
+    - - یک‌قطره از این ساغر کار تو کند چون زر
+      - جانم به فدا باشد این ساغر زرین را
+    - - این حالت اگر باشد اغلب به سحر باشد
+      - آن را که براندازد او بستر و بالین را
+    - - زنهار که یار بد از وسوسه نفریبد
+      - تا نشکنی از سستی مر عهد سلاطین را
+    - - گر زخم خوری بر رو، رو زخم دگر می‌جو
+      - رستم چه کند در صف دسته گل و نسرین را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 81
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh81
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 81
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh81
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

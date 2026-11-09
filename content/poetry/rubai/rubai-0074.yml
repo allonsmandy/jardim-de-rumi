@@ -1,0 +1,27 @@
+id: rubai-0074
+category: rubai
+number: 74
+firstLine:
+  fa: نور فلکست این تن خاکی ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نور فلکست این تن خاکی ما
+      - رشک ملک آمدست چالاکی ما
+    - - گه رشک برد فرشته از پاکی ما
+      - گه بگریزد دیو ز بی‌باکی ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 74
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh74
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 74
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh74
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

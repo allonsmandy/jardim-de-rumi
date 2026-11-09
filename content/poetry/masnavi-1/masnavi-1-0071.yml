@@ -1,0 +1,39 @@
+id: masnavi-1-0071
+category: masnavi-1
+number: 71
+sectionTitle:
+  fa: پرسیدن شیر از سبب پای واپس کشیدن خرگوش
+firstLine:
+  fa: شیر گفتش تو ز اسباب مرض
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شیر گفتش تو ز اسباب مرض
+      - این سبب گو خاصْ کاینستم غرض
+    - - گفت آن شیر اندرین چَه ساکنست
+      - اندرین قلعه ز آفات آمنست
+    - - قعر چَه بگزید هر که عاقلست
+      - زانک در خلوت صفاهای دلست
+    - - ظلمتِ چَه بِه که ظلمتهای خلق
+      - سَر نبُرد آنکس که گیرد پای خلق
+    - - گفت پیش آ زخمم او را قاهرست
+      - تو ببین کان شیر در چَه حاضرست
+    - - گفت من سوزیده‌ام زان آتشی
+      - تو مگر اندر بَرِ خویشم کشی
+    - - تا به پُشت تو من ای کانِ کرم
+      - چشم بگشایم بِچَه دَر بنگرم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 71
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh71
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 71
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh71
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

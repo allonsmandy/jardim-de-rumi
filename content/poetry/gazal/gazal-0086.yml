@@ -1,0 +1,37 @@
+id: gazal-0086
+category: gazal
+number: 86
+firstLine:
+  fa: ای گشته ز تو خندان بستان و گل رعنا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای گشته ز تو خندان بستان و گل رعنا
+      - پیوسته چنین بادا چون شیر و شکر با ما
+    - - ای چرخ تو را بنده وی خلق ز تو زنده
+      - احسنت زهی خوابی شاباش زهی زیبا
+    - - دریای جمال تو چون موج زند ناگه
+      - پرگنج شود پستی فردوس شود بالا
+    - - هر سوی که روی آری در پیش تو گل روید
+      - هر جا که رَوی، آیی، فرشت همه زر بادا
+    - - وان دم که ز بدخویی دشنام و جفا گویی
+      - می‌گو که جفای تو حلواست همه حلوا
+    - - گرچه دل سنگستش بنگر که چه رنگستش
+      - کز مشعله ننگستش وز رنگ گل حمرا
+    - - یا رب دل بازش ده صد عمر درازش ده
+      - فخرش ده و نازش ده تا فخر بود ما را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 86
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh86
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 86
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh86
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

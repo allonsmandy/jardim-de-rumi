@@ -1,0 +1,227 @@
+# Galeria Arte Persa — só obras com origem e licença verificadas.
+# Fonte de todas as obras abaixo: The Metropolitan Museum of Art, programa Open Access
+# (imagens de obras em domínio público, liberadas sob CC0). Dados conferidos na API oficial
+# do museu (collectionapi.metmuseum.org) em 2026-11-08. "originalTitle", data, lugar, técnica e
+# número de inventário são copiados da ficha do museu; títulos em português, descrições e
+# conexões com Rumi são textos do projeto.
+
+# ── Sala 1: o Masnavi nas mãos dos leitores ──
+
+- id: masnavi-1488
+  room: livro
+  title: Um Masnavi copiado em 1488–89
+  originalTitle: Masnavi of Jalal al-Din Rumi
+  date: 1488–1489 (894 do calendário islâmico)
+  place: Irã
+  maker: Rumi (autor do texto)
+  medium: Tinta, aquarela opaca e ouro sobre papel; encadernação de couro
+  size: 28,3 × 18,4 cm
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 13.228.12
+    creditLine: Gift of Alexander Smith Cochran, 1913
+    url: https://www.metmuseum.org/art/collection/search/446547
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP290812.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP290812.jpg
+    alt: Página de um manuscrito do Masnavi com uma pintura de caçadores a cavalo perseguindo animais, cercada por uma margem azul e dourada.
+  description: >-
+    Um manuscrito completo do Masnavi, copiado no Irã pouco mais de duzentos anos depois da morte de
+    Rumi. A página mostra uma cena de caça pintada, emoldurada por uma margem de ornamentos azuis e
+    dourados.
+  connection: >-
+    Livros como este mostram o lugar que o Masnavi ganhou no mundo persa: não era só lido pelos
+    dervixes, mas copiado com o mesmo luxo dos grandes livros de reis e heróis.
+  glossary: [masnavi, rumi]
+  link: { to: /masnavi, label: Ler o Masnavi }
+
+# ── Sala 2: dervixes, música e dança ──
+
+- id: dervixes-dancando
+  room: giro
+  title: Dervixes dançando
+  originalTitle: '"Dancing Dervishes", Folio from the Shah Jahan Album'
+  date: c. 1610 (pintura); c. 1530–1550 (caligrafia do verso da folha)
+  place: Índia
+  maker: Mir ‘Ali Haravi (calígrafo, m. c. 1550)
+  medium: Tinta, aquarela opaca e ouro sobre papel
+  size: 38,6 × 25,9 cm
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 55.121.10.18
+    creditLine: Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955
+    url: https://www.metmuseum.org/art/collection/search/454625
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP246543.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP246543.jpg
+    alt: Pintura de dervixes dançando com os braços erguidos, enquanto outros tocam pandeiros, numa moldura de flores douradas.
+  description: >-
+    Uma folha de um álbum de luxo montado para o imperador mogol Shah Jahan, na Índia. No centro,
+    dervixes giram e erguem os braços, alguns caídos no chão, enquanto músicos tocam pandeiros.
+  connection: >-
+    É o samâ‘, a reunião de música e dança em busca do êxtase que Rumi amava e defendia. Muitos
+    gazéis do Divã de Shams, conta a tradição, nasceram em reuniões assim.
+  glossary: [sama, dervixe, sufi]
+
+- id: giro-mevlevi-gravura
+  room: giro
+  title: Os dervixes giradores vistos por um europeu
+  originalTitle: 'The Inside of a Mosque, the Dervishes Dancing (Aubry de La Mottraye''s "Travels throughout Europe, Asia and into Part of Africa...," London, 1724, vol. I, pl. 16)'
+  date: 1723–1724
+  place: Londres
+  maker: William Hogarth (gravador)
+  medium: Água-forte e buril
+  size: 25,2 × 35,2 cm
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 32.35(234)
+    creditLine: Harris Brisbane Dick Fund, 1932
+    url: https://www.metmuseum.org/art/collection/search/375804
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/dp/web-large/DP824500.jpg
+    full: https://images.metmuseum.org/CRDImages/dp/original/DP824500.jpg
+    alt: Gravura em preto e branco de dervixes de chapéu alto girando com saias abertas num salão, observados por uma plateia.
+  description: >-
+    Uma ilustração para o livro de viagens de um francês que percorreu o Império Otomano. O título
+    da época fala em "mesquita", mas a cena — chapéus altos de feltro, saias que se abrem no giro,
+    dervixes se curvando — é a cerimônia dos dervixes giradores.
+  connection: >-
+    Quatro séculos e meio depois de Rumi, a dança dos seus seguidores já fascinava os viajantes
+    europeus. É uma das imagens mais antigas do giro Mevlevi feitas no Ocidente.
+  glossary: [mevlevi, sama, dervixe]
+
+- id: reuniao-de-dervixes
+  room: giro
+  title: Uma reunião de dervixes
+  originalTitle: A Gathering of Dervishes
+  date: c. 1605–1610
+  place: Índia
+  medium: Cor opaca e ouro sobre papel
+  size: 27,8 × 21,2 cm (imagem)
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: '2022.177'
+    creditLine: Howard Hodgkin Collection, 2022
+    url: https://www.metmuseum.org/art/collection/search/825592
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP-32127-001.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP-32127-001.jpg
+    alt: Pintura de muitos dervixes reunidos em volta de uma árvore e de um pequeno tanque, conversando, cozinhando e descansando.
+  description: >-
+    Dezenas de dervixes, de todas as idades, reunidos ao ar livre em volta de uma grande árvore:
+    uns conversam, outros cozinham, lavam roupa ou descansam.
+  connection: >-
+    A vida em comunidade dos sufis, longe do luxo, com o mestre e os companheiros — o mundo em que
+    Rumi ensinou e para o qual o Masnavi foi escrito.
+  glossary: [dervixe, sufi]
+
+- id: um-dervixe
+  room: giro
+  title: Um dervixe
+  originalTitle: A Dervish
+  date: Fim do século XVI – início do século XVII
+  place: Irã
+  medium: Tinta, aquarela opaca e ouro sobre papel
+  size: 21,3 × 13,6 cm
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 13.228.35
+    creditLine: Gift of Alexander Smith Cochran, 1913
+    url: https://www.metmuseum.org/art/collection/search/446569
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP299965.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP299965.jpg
+    alt: Retrato persa de um dervixe, figura isolada sobre fundo claro.
+  description: >-
+    Um retrato avulso de um dervixe, numa folha solta. Pinturas de uma única figura como esta se
+    tornaram muito populares no Irã por volta de 1600.
+  connection: >-
+    O dervixe — pobre, errante, devoto — está no centro do mundo de Rumi. Shams de Tabriz era um
+    dervixe andarilho, e os seguidores de Rumi formaram uma das ordens de dervixes mais conhecidas.
+  glossary: [dervixe, shams, sufi]
+
+# ── Sala 3: Konya e o mundo das histórias ──
+
+- id: azulejos-konya
+  room: imagens
+  title: Azulejos de Konya
+  originalTitle: Shaped Tiles in the 'Cuerda Seca' Technique
+  date: Fim do século XIV
+  place: Konya (atual Turquia)
+  medium: Pasta de pedra com esmalte colorido (técnica cuerda seca)
+  size: 47,8 × 28,1 cm e 47 × 27,6 cm
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 08.185a, b
+    creditLine: Rogers Fund, 1908
+    url: https://www.metmuseum.org/art/collection/search/445345
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DT11972.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DT11972.jpg
+    alt: Dois azulejos lado a lado formando um arco, com arabescos brancos e turquesa sobre fundo azul-escuro.
+  description: >-
+    Dois azulejos que, juntos, formam um arco, decorados com arabescos brancos e azul-turquesa. A
+    técnica separa as cores com uma linha escura, para que os esmaltes não se misturem no forno.
+  connection: >-
+    Foram feitos em Konya, a cidade em que Rumi viveu e está enterrado, cerca de um século depois da
+    morte dele. Dão uma ideia das cores das construções da cidade.
+  glossary: [konya]
+
+- id: leila-e-majnun
+  room: imagens
+  title: Leila e Majnun na escola
+  originalTitle: '"Laila and Majnun in School", Folio 129 from a Khamsa (Quintet) of Nizami of Ganja'
+  date: 1524–1525 (931 do calendário islâmico)
+  place: Herat (atual Afeganistão)
+  maker: Nezami (autor do texto)
+  medium: Tinta, aquarela opaca e ouro sobre papel
+  size: 'Pintura: 19,1 × 11,4 cm · Página: 32,1 × 22,2 cm'
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 13.228.7.7
+    creditLine: Gift of Alexander Smith Cochran, 1913
+    url: https://www.metmuseum.org/art/collection/search/446603
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DT232547.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DT232547.jpg
+    alt: Pintura persa de uma escola, onde Leila e Majnun se conhecem entre outras crianças.
+  description: >-
+    Uma cena da história de Leila e Majnun, contada em verso por Nezami: os dois se apaixonam ainda
+    crianças, na escola. Separados pelas famílias, Majnun enlouquece de amor e vai viver no deserto.
+  connection: >-
+    Majnun é o modelo de todo amante na poesia persa, e Rumi conta pequenas histórias com ele no
+    Masnavi. Quando o nome aparece, o leitor persa já sabe tudo o que ele perdeu por amor.
+  glossary: [majnun, nezami, amado]
+
+- id: jose-e-zuleica
+  room: imagens
+  title: Zuleica compra José
+  originalTitle: '"Yusuf is Purchased by Zulaykha", Folio from a Yusuf and Zulaykha'
+  date: Século XVI
+  place: Irã
+  medium: Tinta, aquarela opaca e ouro sobre papel
+  size: 'Pintura: 16,8 × 12,7 cm · Página: 24,2 × 14,6 cm'
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 13.228.8.3
+    creditLine: Gift of Alexander Smith Cochran, 1913
+    url: https://www.metmuseum.org/art/collection/search/446597
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/sf13-228-8-f73-r.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/sf13-228-8-f73-r.jpg
+    alt: Pintura persa da cena em que José é comprado por Zuleica.
+  description: >-
+    A história de José (Yusuf), vendido como escravo no Egito e comprado por Zuleica, que se
+    apaixona por ele. Contada no Alcorão e recontada em longos poemas persas.
+  connection: >-
+    Na poesia persa, José é o símbolo da beleza perfeita, e Zuleica, do amor que não desiste. Rumi
+    volta a esse par muitas vezes, no Masnavi e nos gazéis.
+  glossary: [jose-zuleica, alcorao]

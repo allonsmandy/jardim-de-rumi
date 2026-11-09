@@ -1,0 +1,27 @@
+id: rubai-0036
+category: rubai
+number: 36
+firstLine:
+  fa: تا چند از این غرور بسیار ترا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تا چند از این غرور بسیار ترا
+      - تا کی ز خیال هر نمودار ترا
+    - - سبحان‌الله که از تو کاری عجب است
+      - تو هیچ نه و این همه پندار ترا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 36
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh36
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 36
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh36
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

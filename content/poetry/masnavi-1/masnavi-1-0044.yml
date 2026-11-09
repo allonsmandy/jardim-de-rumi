@@ -1,0 +1,33 @@
+id: masnavi-1-0044
+category: masnavi-1
+number: 44
+sectionTitle:
+  fa: ترجیح نهادن نخچیران توکّل را بر جهد و اکتساب
+firstLine:
+  fa: جمله گفتند ای حکیم با خبر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - جمله گفتند ای حکیم با خبر
+      - الحذَر دَعْ لیس یُغْنِی عن قدر
+    - - در حذر شوریدنِ شور و شر‌ست
+      - رو توکّل کن توکّل بهتر‌ست
+    - - با قضا پنجه مزن ای تُند و تیز
+      - تا نگیرد هم قضا با تو ستیز
+    - - مرده باید بود پیش حکمِ حق
+      - تا نیاید زخم از ربُّ الفَلَق
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 44
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh44
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 44
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh44
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

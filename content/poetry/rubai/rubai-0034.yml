@@ -1,0 +1,27 @@
+id: rubai-0034
+category: rubai
+number: 34
+firstLine:
+  fa: تا از تو جدا شده است آغوش مرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تا از تو جدا شده است آغوش مرا
+      - از گریه کسی ندیده خاموش مرا
+    - - در جان و دل و دید فراموش نه‌ای
+      - از بهر خدا مکن فراموش مرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 34
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh34
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 34
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh34
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

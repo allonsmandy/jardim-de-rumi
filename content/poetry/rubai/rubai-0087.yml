@@ -1,0 +1,27 @@
+id: rubai-0087
+category: rubai
+number: 87
+firstLine:
+  fa: ای دل دو سه شام تا سحرگاه مخسب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای دل دو سه شام تا سحرگاه مخسب
+      - در فرقت آفتاب چون ماه مخسپ
+    - - چون دلو درین ظلمت چه ره میکن
+      - باشد که برآئی به سر چاه مخسب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 87
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh87
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 87
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh87
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

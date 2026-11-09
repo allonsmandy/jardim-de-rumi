@@ -1,0 +1,33 @@
+id: masnavi-1-0094
+category: masnavi-1
+number: 94
+sectionTitle:
+  fa: وداع کردن طوطی خواجه را و پریدن
+firstLine:
+  fa: یک دو پندش داد طوطی، بی‌نفاق
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - یک دو پندش داد طوطی، بی‌نفاق
+      - 'بعد از آن گفتش: "سلامٌ، الفِراق!"'
+    - - 'خواجه گفتش: "فی امان الله، برو'
+      - مَر مَرا اکنون نمودی راه نو"
+    - - خواجه با خود گفت کاین پند منست
+      - راه او گیرم که این ره، روشنست
+    - - جان من کمتر ز طوطی کی بوَد‌؟
+      - جان چنین باید که نیکوپی بود
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 94
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh94
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 94
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh94
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

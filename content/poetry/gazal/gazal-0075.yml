@@ -1,0 +1,41 @@
+id: gazal-0075
+category: gazal
+number: 75
+firstLine:
+  fa: ای خواجه نمی‌بینی این روز قیامت را ؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای خواجه نمی‌بینی این روز قیامت را ؟
+      - این یوسف خوبی را، این خوش قد و قامت را ؟
+    - - ای شیخ نمی‌بینی؟ این گوهر شیخی را ؟
+      - این شعشعه نو را این جاه و جلالت را ؟
+    - - ای میر نمی‌بینی این مملکتِ جان را ؟
+      - این روضه دولت را این تخت و سعادت را ؟
+    - - ای خوشدل و خوش‌دامن دیوانه توی یا من ؟
+      - درکش قدحی با من بگذار ملامت را
+    - - ای ماه که در گردش هرگز نشوی لاغر
+      - انوار جلالِ تو بدریده ضلالت را
+    - - چون آب روان دیدی بگذار تیمم را
+      - چون عید وصال آمد بگذار ریاضت را
+    - - گر ناز کنی خامی ور ناز کشی رامی
+      - در بارکشی یابی آن حسن و ملاحت را
+    - - خاموش که خاموشی بهتر ز عسل‌نوشی
+      - درسوز عبارت را بگذار اشارت را
+    - - شمس الحق تبریزی ای مشرقِ تو جان‌ها
+      - از تابشِ تو یابد این شمس حرارت را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 75
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh75
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 75
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh75
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

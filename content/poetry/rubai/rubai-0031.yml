@@ -1,0 +1,27 @@
+id: rubai-0031
+category: rubai
+number: 31
+firstLine:
+  fa: بر رهگذر بلا نهادم دل را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بر رهگذر بلا نهادم دل را
+      - خاص از پی تو پای گشادم دل را
+    - - از باد مرا بوی تو آمد امروز
+      - شکرانهٔ آن به باد دادم دل را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 31
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh31
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 31
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh31
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,27 @@
+id: rubai-0066
+category: rubai
+number: 66
+firstLine:
+  fa: گه می‌گفتم که من امیرم خود را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گه می‌گفتم که من امیرم خود را
+      - گه ناله‌کنان که من اسیرم خود را
+    - - آن رفت و از این پس نپذیرم خود را
+      - بگرفتم این که من نگیرم خود را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 66
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh66
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 66
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh66
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

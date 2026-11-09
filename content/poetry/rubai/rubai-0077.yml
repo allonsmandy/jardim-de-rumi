@@ -1,0 +1,27 @@
+id: rubai-0077
+category: rubai
+number: 77
+firstLine:
+  fa: یک طرفه عصاست موسی این رمه را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - یک طرفه عصاست موسی این رمه را
+      - یک لقمه کند چو بفکند این همه را
+    - - نی سور گذارد او و نی ملحمه را
+      - هر عقل نکرد فهم این زمزمه را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 77
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh77
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 77
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh77
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

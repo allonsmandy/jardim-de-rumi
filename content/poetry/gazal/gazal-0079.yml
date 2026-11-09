@@ -1,0 +1,33 @@
+id: gazal-0079
+category: gazal
+number: 79
+firstLine:
+  fa: ای خواجه نمی‌بینی این روز قیامت را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای خواجه نمی‌بینی این روز قیامت را
+      - ای خواجه نمی‌بینی این خوش قد و قامت را
+    - - دیوار و در خانه شوریده و دیوانه
+      - من بر سر دیوارم از بهر علامت را
+    - - ماهیست که در گردش لاغر نشود هرگز
+      - خورشید جمال او بدریده ظلامت را
+    - - ای خواجه خوش دامن دیوانه توی یا من
+      - درکش قدحی با من بگذار ملامت را
+    - - پیش از تو بسی شیدا می‌جست کرامت‌ها
+      - چون دید رخ ساقی بفروخت کرامت را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 79
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh79
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 79
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh79
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

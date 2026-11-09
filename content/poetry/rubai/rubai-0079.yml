@@ -1,0 +1,27 @@
+id: rubai-0079
+category: rubai
+number: 79
+firstLine:
+  fa: آنی که فلک با تو درآید به طرب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آنی که فلک با تو درآید به طرب
+      - گر آدمیی شیفته گردد چه عجب
+    - - تا جان دارم بندگیت خواهم کرد
+      - خواهی به طلب مرا و خواهی مطلب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 79
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh79
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 79
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh79
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,41 @@
+id: gazal-0069
+category: gazal
+number: 69
+firstLine:
+  fa: چه باشد گر نگارینم بگیرد دست من فردا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چه باشد گر نگارینم بگیرد دست من فردا
+      - ز روزن سر درآویزد چو قرص ماه خوش سیما
+    - - درآید جان فزای من گشاید دست و پای من
+      - که دستم بست و پایم هم کف هجران پابرجا
+    - - بدو گویم به جان تو که بی‌تو ای حیات جان
+      - نه شادم می‌کند عشرت نه مستم می‌کند صهبا
+    - - وگر از ناز او گوید برو از من چه می‌خواهی
+      - ز سودای تو می‌ترسم که پیوندد به من سودا
+    - - برم تیغ و کفن پیشش چو قربانی نهم گردن
+      - که از من دردسر داری مرا گردن بزن عمدا
+    - - تو می‌دانی که من بی‌تو نخواهم زندگانی را
+      - مرا مردن به از هجران به یزدان کاخرج الموتی
+    - - مرا باور نمی‌آمد که از بنده تو برگردی
+      - همی‌گفتم اراجیفست و بهتان گفته اعدا
+    - - توی جان من و بی‌جان ندانم زیست من باری
+      - توی چشم من و بی‌تو ندارم دیده بینا
+    - - رها کن این سخن‌ها را بزن مطرب یکی پرده
+      - رباب و دف به پیش آور اگر نبود تو را سرنا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 69
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh69
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 69
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh69
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

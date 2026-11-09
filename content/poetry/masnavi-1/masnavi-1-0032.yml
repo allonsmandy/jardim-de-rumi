@@ -1,0 +1,37 @@
+id: masnavi-1-0032
+category: masnavi-1
+number: 32
+sectionTitle:
+  fa: کشتن وزیر خویشتن را در خلوت
+firstLine:
+  fa: بعد از آن چل روز دیگر در ببست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بعد از آن چل روز دیگر در ببست
+      - خویش کشت و از وجود خود برست
+    - - چونک خلق از مرگ او آگاه شد
+      - بر سر گورش قیامتگاه شد
+    - - خلق چندان جمع شد بر گور او
+      - مو کنان جامه‌دران در شور او
+    - - کان عدد را هم خدا داند شمرد
+      - از عرب وز ترک و از رومی و کرد
+    - - خاک او کردند بر سرهای خویش
+      - درد او دیدند درمان جای خویش
+    - - آن خلایق بر سر گورش مهی
+      - کرده خون را از دو چشم خود رهی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 32
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh32
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 32
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh32
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

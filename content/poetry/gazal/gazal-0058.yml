@@ -1,0 +1,39 @@
+id: gazal-0058
+category: gazal
+number: 58
+firstLine:
+  fa: رسید آن شه رسید آن شه بیارایید ایوان را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - رسید آن شه رسید آن شه بیارایید ایوان را
+      - فروبُرّید ساعدها برای خوب کنعان را
+    - - چو آمد جانِ جانِ جان، نشاید برد نام جان
+      - به پیشش جان چه کار آید مگر از بهر قربان را
+    - - بُدم بی‌عشق گمراهی درآمد عشق ناگاهی
+      - بُدم کوهی شدم کاهی برای اسب سلطان را
+    - - اگر ترکست و تاجیکست بدو این بنده نزدیکست
+      - چو جان با تن ولیکن تن نبیند هیچ مر جان را
+    - - هلا یاران که بخت آمد گَهِ ایثارِ رخت آمد
+      - سلیمانی به تخت آمد برای عزل شیطان را
+    - - بِجَه از جا چه می‌پایی چرا بی‌دست و بی‌پایی
+      - نمی‌دانی ز هدهد جو ره قصر سلیمان را
+    - - بکن آن جا مناجاتت بگو اسرار و حاجاتت
+      - سلیمان خود همی‌داند زبان جمله مرغان را
+    - - سخن بادست ای بنده کُنَد دل را پراکنده
+      - ولیکن اوشْ فرماید که گرد آور پریشان را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 58
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh58
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 58
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh58
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

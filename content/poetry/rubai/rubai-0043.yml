@@ -1,0 +1,27 @@
+id: rubai-0043
+category: rubai
+number: 43
+firstLine:
+  fa: خود را به حیَل درافکنم مست آنجا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خود را به حیَل درافکنم مست آنجا
+      - تا بنگرم آن جان جهان هست آنجا
+    - - یا پای رسانَدَم به مقصود و مراد
+      - یا سر بدهم همچو دل از دست آنجا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 43
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh43
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 43
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh43
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

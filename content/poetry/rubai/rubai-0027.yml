@@ -1,0 +1,27 @@
+id: rubai-0027
+category: rubai
+number: 27
+firstLine:
+  fa: این آتش عشق می‌پزاند ما را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - این آتش عشق می‌پزاند ما را
+      - هر شب به خرابات کشاند ما را
+    - - با اهل خرابات نشاند ما را
+      - تا غیر خرابات نداند ما را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 27
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh27
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 27
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh27
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

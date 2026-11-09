@@ -1,0 +1,27 @@
+id: rubai-0024
+category: rubai
+number: 24
+firstLine:
+  fa: ای دوست به دوستی قرینیم ترا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای دوست به دوستی قرینیم ترا
+      - هرجا که قدم نهی زمینیم ترا
+    - - در مذهب عاشقی روا کی باشد
+      - عالم تو ببینیم و نه بینیم ترا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 24
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh24
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 24
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh24
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,27 @@
+id: rubai-0075
+category: rubai
+number: 75
+firstLine:
+  fa: هان ای سفری عزم کجایست کجا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هان ای سفری عزم کجایست کجا
+      - هرجا که روی نشسته‌ای در دل ما
+    - - چندان غم دریاست ترا چون ماهی
+      - کافشاند لب خشک تو را در دریا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 75
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh75
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 75
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh75
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

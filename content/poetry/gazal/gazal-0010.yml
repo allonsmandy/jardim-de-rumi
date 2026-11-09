@@ -1,0 +1,37 @@
+id: gazal-0010
+category: gazal
+number: 10
+firstLine:
+  fa: مهمان شاهم هر شبی بر خوان احسان و وفا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مهمان شاهم هر شبی بر خوان احسان و وفا
+      - مهمان صاحب‌دولتم که دولتش پاینده با
+    - - بر خوان شیران یک شبی بوزینه‌ای همراه شد
+      - استیزه‌رو گر نیستی او از کجا شیر از کجا
+    - - بنگر که از شمشیر شه در قهر‌ِمان خون می‌چکد
+      - آخر چه گستاخی است این واللَّه خطا واللَّه خطا
+    - - گر طفل شیری پنجه زد بر روی مادر ناگهان
+      - تو دشمن خود نیستی بر وی منه تو پنجه را
+    - - آن کاو ز شیران شیر خوَرْد‌، او شیر باشد نیست مرد
+      - بسیار نقش آدمی دیدم که بود آن اژدها
+    - - نوح ار چه مردم‌وار بُد طوفان مردم‌خوار بُد
+      - گر هست آتش ذره‌ای آن ذره دارد شعله‌ها
+    - - شمشیرم و خون‌ریز من‌، هم نرمم و هم تیز من
+      - همچون جهان فانی‌ام ظاهر خوش و باطن بلا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 10
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh10
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 10
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh10
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

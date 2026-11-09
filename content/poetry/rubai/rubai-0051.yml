@@ -1,0 +1,27 @@
+id: rubai-0051
+category: rubai
+number: 51
+firstLine:
+  fa: زنهار دلا به خود مده ره غم را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - زنهار دلا به خود مده ره غم را
+      - مگزین به جهان صحبت نامحرم را
+    - - با تره و نانی چو قناعت کردی
+      - چون تره مسنج سبلت عالم را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 51
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh51
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 51
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh51
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

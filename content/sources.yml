@@ -1,0 +1,190 @@
+# Registro de fontes. Toda referência em poemas e notas precisa apontar para um id daqui.
+# `usableForPublication` só deve ser `true` depois de verificar a situação de direitos.
+# Ver docs/copyright-and-sources.md.
+
+- id: ganjoor
+  type: digital-transcription
+  title: Ganjoor — Mowlana (Masnavi-ye Ma‘navi e Divã de Shams)
+  url: https://ganjoor.net/moulavi
+  rights:
+    status: open-license
+    note: >-
+      O Ganjoor é um projeto iraniano sem fins comerciais que digitaliza a poesia persa e libera seu
+      acervo para que outros façam trabalhos parecidos. O texto de Rumi (século XIII) é de domínio
+      público. A transcrição do Masnavi e do Divã de Shams no Ganjoor vem do projeto Wikidorj
+      (ویکی‌درج). Copiamos daqui só o texto dos versos e a numeração, sempre com crédito e link —
+      comentários, resumos e leituras do Ganjoor não são usados.
+    verifiedAt: 2026-11-08
+  usableForPublication: true
+
+- id: forouzanfar-kolliyat
+  type: critical-edition
+  title: Kolliyat-e Shams ya Divan-e Kabir
+  authors: [Badi‘ al-Zaman Forouzanfar]
+  year: 'décadas de 1950–1960'
+  publisher: Teerã, Universidade de Teerã
+  rights:
+    status: restricted
+    note: >-
+      Edição crítica moderna de referência do Divã de Shams. Os poemas são de domínio público, mas o
+      trabalho editorial ainda é protegido. Usamos apenas para conferir a numeração (concordância),
+      sem reproduzir aparato, notas ou variantes. A correspondência entre a numeração do Ganjoor e a
+      de Forouzanfar precisa ser conferida poema a poema.
+  usableForPublication: false
+
+- id: nicholson-masnavi
+  type: translation
+  title: The Mathnawí of Jalálu'ddín Rúmí (texto persa, tradução inglesa e comentário)
+  authors: [Reynold A. Nicholson]
+  year: '1925–1940'
+  publisher: Londres, E. J. W. Gibb Memorial Series
+  rights:
+    status: public-domain
+    note: >-
+      Nicholson morreu em 1945; pela regra brasileira de 70 anos após a morte, a obra está em domínio
+      público no Brasil desde 2016 (em outros países a situação pode variar). É a edição e a tradução
+      acadêmica clássica do Masnavi e a origem da numeração de versos mais citada. Pode servir de
+      apoio a notas e de conferência para a tradução feita direto do persa.
+  usableForPublication: true
+
+- id: nicholson-divani-shamsi
+  type: translation
+  title: Selected Poems from the Divani Shamsi Tabriz
+  authors: [Reynold A. Nicholson]
+  year: '1898'
+  publisher: Cambridge, Cambridge University Press
+  rights:
+    status: public-domain
+    note: Seleção de gazéis em tradução inglesa, com texto persa e notas; em domínio público.
+  usableForPublication: true
+
+- id: whinfield-masnavi
+  type: translation
+  title: Masnavi i Ma‘navi — The Spiritual Couplets (tradução inglesa resumida)
+  authors: [E. H. Whinfield]
+  year: '1887 (2.ª ed. 1898)'
+  publisher: Londres, Trübner / Kegan Paul
+  rights:
+    status: public-domain
+    note: Tradução resumida do século XIX, em domínio público; útil para comparação.
+  usableForPublication: true
+
+- id: aflaki-manaqib
+  type: reference
+  title: Manaqib al-‘Arifin (Os feitos dos conhecedores)
+  authors: [Shams al-Din Ahmad Aflaki]
+  year: 'século XIV'
+  rights:
+    status: public-domain
+    note: >-
+      Hagiografia escrita por um discípulo da ordem Mevlevi décadas depois da morte de Rumi. É a
+      fonte de muitas histórias famosas sobre Rumi e Shams; os historiadores a tratam como tradição
+      e lenda, não como relato confiável. Sempre citar como "conta a tradição".
+  usableForPublication: true
+
+- id: sultan-valad-ebteda-name
+  type: reference
+  title: Ebteda-name (Valad-name)
+  authors: [Sultan Valad]
+  year: '1291'
+  rights:
+    status: public-domain
+    note: Poema do filho de Rumi que conta a vida do pai e a história com Shams; uma das fontes mais antigas.
+  usableForPublication: true
+
+- id: barks-versions
+  type: translation
+  title: The Essential Rumi e outras "versões" de Rumi
+  authors: [Coleman Barks]
+  rights:
+    status: restricted
+    note: >-
+      As versões mais vendidas de Rumi em inglês. Barks não lê persa: reescreve traduções acadêmicas
+      em verso livre, muitas vezes apagando o contexto islâmico. Obra protegida e que não é tradução —
+      nunca serve de base. Aparece aqui porque muitas "citações de Rumi" que circulam vêm delas.
+  usableForPublication: false
+
+- id: arberry-mystical-poems
+  type: translation
+  title: Mystical Poems of Rumi
+  authors: [A. J. Arberry]
+  year: '1968–1979'
+  rights:
+    status: restricted
+    note: Tradução acadêmica de gazéis do Divã de Shams, ainda protegida. Não usar como base.
+  usableForPublication: false
+
+- id: mojaddedi-masnavi
+  type: translation
+  title: The Masnavi (Oxford World's Classics)
+  authors: [Jawid Mojaddedi]
+  year: '2004–'
+  rights:
+    status: restricted
+    note: Tradução acadêmica moderna do Masnavi, protegida. Não usar como base.
+  usableForPublication: false
+
+- id: lewis-rumi-past-present
+  type: reference
+  title: 'Rumi: Past and Present, East and West'
+  authors: [Franklin D. Lewis]
+  year: '2000'
+  publisher: Oxford, Oneworld
+  rights:
+    status: restricted
+    note: >-
+      Biografia acadêmica de referência, que separa o que se sabe do que é lenda. Usada para conferir
+      fatos, sem reproduzir seus textos.
+  usableForPublication: false
+
+- id: encyclopaedia-iranica
+  type: reference
+  title: Encyclopaedia Iranica — verbetes sobre Rumi e correlatos
+  url: https://www.iranicaonline.org
+  rights:
+    status: restricted
+    note: Enciclopédia acadêmica sobre o Irã. Usada para conferir datas e fatos históricos, sem reproduzir seus textos.
+  usableForPublication: false
+
+- id: claude-preliminar
+  type: translation
+  title: Tradução preliminar do Jardim de Rumi feita por IA (Claude, Anthropic)
+  authors: [Claude (modelo de IA da Anthropic)]
+  year: '2026'
+  rights:
+    status: permission-granted
+    note: >-
+      Traduções e comentários produzidos a pedido da proprietária do projeto, publicados como
+      versão preliminar aberta a correções. A página "Como traduzimos" explica o processo.
+  usableForPublication: true
+
+- id: codex-preliminar
+  type: translation
+  title: Tradução preliminar do Jardim de Rumi feita por IA (Codex, OpenAI)
+  authors: [Codex (modelo de IA da OpenAI)]
+  year: '2026'
+  rights:
+    status: permission-granted
+    note: >-
+      Traduções e comentários produzidos a pedido da proprietária do projeto, publicados como
+      versão preliminar aberta a correções. A página "Como traduzimos" explica o processo.
+  usableForPublication: true
+
+- id: alcorao
+  type: reference
+  title: Alcorão
+  rights:
+    status: public-domain
+    note: 'Referência para alusões corânicas (o Masnavi cita e comenta o Alcorão o tempo todo).'
+  usableForPublication: true
+
+- id: met-open-access
+  type: reference
+  title: The Metropolitan Museum of Art — Open Access (imagens e dados da galeria Arte Persa)
+  url: https://www.metmuseum.org/about-the-met/policies-and-procedures/image-resources
+  rights:
+    status: public-domain
+    note: >-
+      O museu libera em domínio público (CC0) as fotos de obras sem direitos autorais. Título, data,
+      técnica e número de inventário de cada obra foram conferidos na base oficial do museu.
+  usableForPublication: true

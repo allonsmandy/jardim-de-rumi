@@ -1,0 +1,27 @@
+id: rubai-0061
+category: rubai
+number: 61
+firstLine:
+  fa: گر در طلب خودی ز خود بیرون‌آ
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر در طلب خودی ز خود بیرون‌آ
+      - جو را بگذار و جانب جیحون آ
+    - - چون گاو چه می‌کشی تو بار گردون
+      - چرخی بزن و بر سر این گردون آ
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 61
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh61
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 61
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh61
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

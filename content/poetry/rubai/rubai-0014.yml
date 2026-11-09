@@ -1,0 +1,27 @@
+id: rubai-0014
+category: rubai
+number: 14
+firstLine:
+  fa: ای آنکه چو آفتاب فرد است بیا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای آنکه چو آفتاب فرد است بیا
+      - بیرون تو برگ و باغ زرد است بیا
+    - - عالم بی‌تو غبار و گرد است بیا
+      - این مجلس عیش بی‌تو سرد است بیا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 14
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh14
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 14
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh14
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,27 @@
+id: rubai-0035
+category: rubai
+number: 35
+firstLine:
+  fa: تا با تو بوم نخسبم از یاری‌ها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تا با تو بوم نخسبم از یاری‌ها
+      - تا بی‌تو بوم نخسبم از زاری‌ها
+    - - سبحان‌الله که هردو شب بیدارم
+      - تو فرق نگر میان بیداری‌ها
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 35
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh35
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 35
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh35
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

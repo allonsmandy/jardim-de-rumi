@@ -1,0 +1,33 @@
+id: gazal-0072
+category: gazal
+number: 72
+firstLine:
+  fa: به خانه‌خانه می‌آرد چو بیذق شاهِ جان ما را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به خانه‌خانه می‌آرد چو بیذق شاهِ جان ما را
+      - عجب بردست یا ماتست زیر امتحان ما را
+    - - همه اجزای ما را او کشانیده‌ست از هر سو
+      - تراشیده‌ست عالم را و معجون کرده زان ما را
+    - - ز حرص و شهوتی ما را مهاری کرده در بینی
+      - چو اشتر می‌کشاند او به گرد این جهان ما را
+    - - چه جای ما که گردون را چو گاوان در خرس بست او
+      - که چون کنجد همی‌کوبد به زیر آسمان ما را
+    - - خنک آن اشتری کاو را مهار عشق حق باشد
+      - همیشه مست می‌دارد میان اشتران ما را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 72
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh72
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 72
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh72
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

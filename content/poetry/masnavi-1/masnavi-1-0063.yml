@@ -1,0 +1,39 @@
+id: masnavi-1-0063
+category: masnavi-1
+number: 63
+sectionTitle:
+  fa: رسیدن خرگوش به شیر
+firstLine:
+  fa: شیر اندر آتش و در خشم و شور
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شیر اندر آتش و در خشم و شور
+      - دید کان خرگوش می‌آید ز دور
+    - - می‌دود بی‌دهشت و گستاخ او
+      - خشمگین و تند و تیز و تُرش‌رو
+    - - کز شکسته آمدن تُهمت بود
+      - وز دلیری دفع هر ریبت بود
+    - - چون رسید او پیشتر نزدیکِ صف
+      - بانگ بر زد شیر، های ای ناخلف
+    - - من که پیلان را ز هم بدریده‌ام
+      - من که گوش شیر نر مالیده‌ام
+    - - نیم خرگوشی که باشد که چنین
+      - امر ما را افکند او بر زمین
+    - - تَرکِ خواب غفلت خرگوش کن
+      - غُرّهٔ این شیر ای خَر گوش کن
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 63
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh63
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 63
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh63
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

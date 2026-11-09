@@ -1,0 +1,33 @@
+id: gazal-0093
+category: gazal
+number: 93
+firstLine:
+  fa: میندیش میندیش که اندیشه گری‌ها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - میندیش میندیش که اندیشه گری‌ها
+      - چو نفطند بسوزند ز هر بیخ تری‌ها
+    - - خرف باش خرف باش ز مستی و ز حیرت
+      - که تا جمله نیستان نماید شکری‌ها
+    - - جنونست شجاعت میندیش و درانداز
+      - چو شیران و چو مردان گذر کن ز غری‌ها
+    - - که اندیشه چو دامست بر ایثار حرامست
+      - چرا باید حیلت پی لقمه بری‌ها
+    - - ره لقمه چو بستی ز هر حیله برستی
+      - وگر حرص بنالد بگیریم کری‌ها
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 93
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh93
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 93
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh93
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

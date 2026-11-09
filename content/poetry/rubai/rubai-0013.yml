@@ -1,0 +1,27 @@
+id: rubai-0013
+category: rubai
+number: 13
+firstLine:
+  fa: اول به هزار لطف بنواخت مرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اول به هزار لطف بنواخت مرا
+      - آخر به هزار غصه بگداخت مرا
+    - - چون مهره مهر خویش می‌باخت مرا
+      - چون من همه او شدم بینداخت مرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 13
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh13
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 13
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh13
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

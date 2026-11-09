@@ -1,0 +1,27 @@
+id: rubai-0063
+category: rubai
+number: 63
+firstLine:
+  fa: گر من میرم مرا بیارید شما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر من میرم مرا بیارید شما
+      - مرده بنگار من سپارید شما
+    - - گر بوسه دهد بر لب پوسیدهٔ من
+      - گر زنده شوم عجب مدارید شما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 63
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh63
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 63
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh63
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

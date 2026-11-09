@@ -1,0 +1,41 @@
+id: masnavi-1-0110
+category: masnavi-1
+number: 110
+sectionTitle:
+  fa: قصهٔ خلیفه کی در کرم در زمان خود از حاتم طائی گذشته بود و نظیر خود نداشت
+firstLine:
+  fa: یک خلیفه بود در ایام پیش
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - یک خلیفه بود در ایام پیش
+      - کرده حاتم را غلام جود خویش
+    - - رایت اکرام و داد افراشته
+      - فقر و حاجت از جهان بر داشته
+    - - بحر و در از بخششش صاف آمده
+      - داد او از قاف تا قاف آمده
+    - - در جهان خاک ابر و آب بود
+      - مظهر بخشایش وهاب بود
+    - - از عطااش بحر و کان در زلزله
+      - سوی جودش قافله بر قافله
+    - - قبلهٔ حاجت در و دروازه‌اش
+      - رفته در عالم بجود آوازه‌اش
+    - - هم عجم هم روم هم ترک و عرب
+      - مانده از جود و سخااش در عجب
+    - - آب حیوان بود و دریای کرم
+      - زنده گشته هم عرب زو هم عجم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 110
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh110
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 110
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh110
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

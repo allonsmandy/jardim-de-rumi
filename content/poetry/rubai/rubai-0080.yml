@@ -1,0 +1,27 @@
+id: rubai-0080
+category: rubai
+number: 80
+firstLine:
+  fa: از بانگ سرافیل دمیده است رباب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - از بانگ سرافیل دمیده است رباب
+      - تا زنده و تازه کرده دلهای کباب
+    - - آن سوداها که غرقه گشتند و فنا
+      - چون ماهیکان برآمدند از تک آب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 80
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh80
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 80
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh80
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

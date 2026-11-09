@@ -1,0 +1,33 @@
+id: masnavi-1-0042
+category: masnavi-1
+number: 42
+sectionTitle:
+  fa: بیان توکّل و ترک جهد گفتن نخچیران به شیر
+firstLine:
+  fa: طایفهٔ نخچیر دَر وادی خوش
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - طایفهٔ نخچیر دَر وادی خوش
+      - بودشان از شیر دایم کش‌مکش
+    - - بس که آن شیر از کمین می در ربود
+      - آن چَرا بر جمله ناخوش گشته بود
+    - - حیله کردند آمدند ایشان بَشیر
+      - کز وظیفه ما ترا داریم سیر
+    - - بعد ازین اندر پی صیدی میا
+      - تا نگردد تلخْ بر ما این گیا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 42
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh42
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 42
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh42
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

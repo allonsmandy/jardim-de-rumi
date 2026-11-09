@@ -1,0 +1,27 @@
+id: rubai-0093
+category: rubai
+number: 93
+firstLine:
+  fa: بی‌جام در این دور شرابست شراب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بی‌جام در این دور شرابست شراب
+      - بی‌دود در این سینه کبابست کباب
+    - - فریادِ ربابِ عشق از زخمهٔ او است
+      - زنهار مگو همین ربابست رباب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 93
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh93
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 93
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh93
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

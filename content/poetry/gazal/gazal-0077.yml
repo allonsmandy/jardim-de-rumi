@@ -1,0 +1,39 @@
+id: gazal-0077
+category: gazal
+number: 77
+firstLine:
+  fa: آب حیوان باید مر روح فزایی را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آب حیوان باید مر روح فزایی را
+      - ماهی همه جان باید دریای خدایی را
+    - - ویرانه‌ی آب و گل چون مسکن بوم آمد
+      - این عرصه کجا شاید پروازِ همایی را ؟
+    - - صد چشم شود حیران در تابش این دولت
+      - تو گوش مکش این سو هر کورِ عصایی را
+    - - گر نقدِ درستی تو، چون مست و قراضه‌ستی ؟
+      - آخر تو چه پنداری این گنج عطایی را ؟
+    - - دلتنگ همی‌دانند کان جای که انصافست
+      - صد دل به فدا باید آن جان بقایی را
+    - - دل نیست کم از آهن آهن نه که می‌داند
+      - آن سنگ که پیدا شد پولادربایی را
+    - - عقل از پی عشق آمد در عالم خاک ار نی
+      - عقلی بنمی باید بی‌عهد و وفایی را
+    - - خورشید حقایق‌ها شمس الحق تبریز است
+      - دل روی زمین بوسد آن جان سمایی را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 77
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh77
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 77
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh77
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

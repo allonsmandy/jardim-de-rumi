@@ -1,0 +1,27 @@
+id: rubai-0078
+category: rubai
+number: 78
+firstLine:
+  fa: آن لقمه که در دهان نگنجد به طلب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن لقمه که در دهان نگنجد به طلب
+      - وان علم که در نشان نگنجد به طلب
+    - - سریست میان دل مردان خدای
+      - جبریل در آن میان نگنجد به طلب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 78
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh78
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 78
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh78
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

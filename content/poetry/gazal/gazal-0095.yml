@@ -1,0 +1,43 @@
+id: gazal-0095
+category: gazal
+number: 95
+firstLine:
+  fa: زهی عشق زهی عشق که ما راست خدایا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - زهی عشق زهی عشق که ما راست خدایا
+      - چه نغزست و چه خوبست و چه زیباست خدایا
+    - - چه گرمیم چه گرمیم از این عشق چو خورشید
+      - چه پنهان و چه پنهان و چه پیداست خدایا
+    - - زهی ماه زهی ماه زهی بادهٔ همراه
+      - که جان را و جهان را بیاراست خدایا
+    - - زهی شور زهی شور که انگیخته عالم
+      - زهی کار زهی بار که آن جاست خدایا
+    - - فروریخت فروریخت شهنشاه سواران
+      - زهی گرد زهی گرد که برخاست خدایا
+    - - فتادیم فتادیم بدان سان که نخیزیم
+      - ندانیم ندانیم چه غوغاست خدایا
+    - - ز هر کوی ز هر کوی یکی دود دگرگون
+      - دگربار دگربار چه سوداست خدایا
+    - - نه دامیست نه زنجیر همه بسته چراییم
+      - چه بندست چه زنجیر که برپاست خدایا
+    - - چه نقشیست چه نقشیست در این تابهٔ دل‌ها
+      - غریبست غریبست ز بالاست خدایا
+    - - خموشید خموشید که تا فاش نگردید
+      - که اغیار گرفتست چپ و راست خدایا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 95
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh95
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 95
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh95
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

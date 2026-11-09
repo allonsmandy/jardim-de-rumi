@@ -1,0 +1,37 @@
+id: masnavi-1-0067
+category: masnavi-1
+number: 67
+sectionTitle:
+  fa: طعنهٔ زاغ در دعوی هدهد
+firstLine:
+  fa: زاغ چون بشنود آمد از حسد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - زاغ چون بشنود آمد از حسد
+      - با سلیمان گفت کو کژ گفت و بَد
+    - - از ادب نبود به پیش شَه مقال
+      - خاصه خودلاف دروغین و محال
+    - - گر مر او را این نظر بودی مُدام
+      - چون ندیدی زیر مشتی خاکْ دام
+    - - چون گرفتار آمدی در دامْ او
+      - چون قفس اندر شدی ناکام او
+    - - پس سلیمان گفت ای هدهد رواست
+      - کز تو در اوّل قدح این دُرد خاست
+    - - چون نمایی مستی ای خورده تو دوغ
+      - پیش من لافی زنی آنگه دروغ
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 67
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh67
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 67
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh67
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

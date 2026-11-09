@@ -1,0 +1,27 @@
+id: rubai-0076
+category: rubai
+number: 76
+firstLine:
+  fa: یک چند به تقلید گزیدم خود را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - یک چند به تقلید گزیدم خود را
+      - نادیده همی نام شنیدم خود را
+    - - در خود بودم زان نسزیدم خود را
+      - از خود چو برون شدم بدیدم خود را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 76
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh76
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 76
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh76
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

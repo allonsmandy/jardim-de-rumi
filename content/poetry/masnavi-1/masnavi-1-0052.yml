@@ -1,0 +1,29 @@
+id: masnavi-1-0052
+category: masnavi-1
+number: 52
+sectionTitle:
+  fa: انکار کردن نخچیران بر خرگوش در تاخیر رفتن بر شیر
+firstLine:
+  fa: قوم گفتندش که چندین گاه ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - قوم گفتندش که چندین گاه ما
+      - جان فدا کردیم در عهد و وفا
+    - - تو مجو بدنامی ما ای عنود
+      - تا نرنجد شیر رو رو زود زود
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 52
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh52
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 52
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh52
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

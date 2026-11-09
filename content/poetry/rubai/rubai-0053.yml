@@ -1,0 +1,27 @@
+id: rubai-0053
+category: rubai
+number: 53
+firstLine:
+  fa: عاشق شب خلوت از پی پی گم را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عاشق شب خلوت از پی پی گم را
+      - بسیار بود که کژ نهد انجم را
+    - - زیرا که شب وصال زحمت باشد
+      - از مردم دیده دیدهٔ مردم را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 53
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh53
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 53
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh53
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

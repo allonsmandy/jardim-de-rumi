@@ -1,0 +1,39 @@
+id: masnavi-1-0106
+category: masnavi-1
+number: 106
+sectionTitle:
+  fa: اظهار معجزهٔ پیغمبر صلی الله علیه و سلم به سخن آمدن سنگ‌ریزه در دست ابوجهل علیه اللعنه و گواهی دادن سنگ‌ریزه بر حقیت محمد صلی الله علیه و سلم به رسالت او
+firstLine:
+  fa: سنگها اندر کف بوجهل بود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - سنگها اندر کف بوجهل بود
+      - گفت ای احمد بگو این چیست زود
+    - - گر رسولی چیست در مشتم نهان
+      - چون خبر داری ز راز آسمان
+    - - گفت چون خواهی بگویم آن چه‌هاست
+      - یا بگویند آن که ما حقیم و راست
+    - - گفت بوجهل این دوم نادرترست
+      - گفت آری حق از آن قادرترست
+    - - از میان مشت او هر پاره سنگ
+      - در شهادت گفتن آمد بی درنگ
+    - - لا اله گفت و الا الله گفت
+      - گوهر احمد رسول الله سفت
+    - - چون شنید از سنگها بوجهل این
+      - زد ز خشم آن سنگها را بر زمین
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 106
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh106
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 106
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh106
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

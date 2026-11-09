@@ -1,0 +1,27 @@
+id: rubai-0084
+category: rubai
+number: 84
+firstLine:
+  fa: اندیشه و غم را نبود هستی و تاب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اندیشه و غم را نبود هستی و تاب
+      - آنجا که شرابست و ربابست و کباب
+    - - عیش ابدی نوش کنید ای اصحاب
+      - چون سبزه و گل نهید لب بر لب آب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 84
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh84
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 84
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh84
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

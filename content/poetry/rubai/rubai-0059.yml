@@ -1,0 +1,27 @@
+id: rubai-0059
+category: rubai
+number: 59
+firstLine:
+  fa: گر بوی نمی‌بری در این کوی میا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر بوی نمی‌بری در این کوی میا
+      - ور جامه نمی‌کنی در این جوی میا
+    - - آن سوی که سویها از آنسوی آید
+      - می‌باش همان سوی و بدین سوی میا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 59
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh59
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 59
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh59
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

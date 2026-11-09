@@ -1,0 +1,27 @@
+id: rubai-0067
+category: rubai
+number: 67
+firstLine:
+  fa: لاحول ولا دور کند آن غم را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - لاحول ولا دور کند آن غم را
+      - گر دیو رسد جان بنی آدم را
+    - - آن کز دم لاحول ولا غمگین شد
+      - لا حول ولا فزون کند آن دم را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 67
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh67
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 67
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh67
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

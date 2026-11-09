@@ -1,0 +1,53 @@
+id: masnavi-1-0037
+category: masnavi-1
+number: 37
+sectionTitle:
+  fa: آتش کردن پادشاه جهود و بت نهادن پهلوی آتش کی هر که این بت را سجود کند از آتش برست
+firstLine:
+  fa: آن جهودِ سَگ ببین چه راٰی کرد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن جهودِ سَگ ببین چه راٰی کرد
+      - پهلوی آتش بُتی بَر پای کرد
+    - - کانکه این بُت را سجود آرد برست
+      - ور نیارد در دلِ آتش نشست
+    - - چون سزای این بتِ نفسْ او نداد
+      - از بتِ نفسش بتی دیگر بِزاد
+    - - مادرِ بتها بتِ نفس شماست
+      - زانک آن بت مار و این بت اژدهاست
+    - - آهن و سنگست نفس و بت شرار
+      - آن شرار از آب می‌گیرد قرار
+    - - سنگ و آهن زآب کی ساکن شود
+      - آدمی با این دو کی ایمن بود
+    - - بت سیاهابه‌ست در کوزه نهان
+      - نفسْ مر آبِ سیه را چشمه دان
+    - - آن بت مَنحوت چون سیل سیاه
+      - نفسِ بُتگر چشمه‌ای بر آب‌راه
+    - - صد سبو را بشکند یکپاره سنگ
+      - و آبِ چشمه می‌زهاند بی‌درنگ
+    - - بت‌شکستن سَهل باشد نیک سهل
+      - سهل دیدن نفس را جَهلست جهل
+    - - صورتِ نفس ار بجویی ای پسر
+      - قصّهٔ دوزخ بخوان با هفت دَر
+    - - هر نفَس مکری و در هر مکر زان
+      - غرقه صد فرعون با فرعونیان
+    - - در خدای موسی و موسی گریز
+      - آب ایمان را ز فرعونی مریز
+    - - دست را اندر اَحد و احمد بزن
+      - ای برادر وا ره از بوجهل تَن
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 37
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh37
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 37
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh37
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

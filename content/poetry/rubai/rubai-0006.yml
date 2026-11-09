@@ -1,0 +1,27 @@
+id: rubai-0006
+category: rubai
+number: 6
+firstLine:
+  fa: آواز ترا طبع دل ما بادا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آواز ترا طبع دل ما بادا
+      - اندر شب و روز شاد و گویا بادا
+    - - آواز تو گر خسته شود خسته شویم
+      - آواز تو چون نای شکرخا بادا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 6
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh6
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 6
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh6
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

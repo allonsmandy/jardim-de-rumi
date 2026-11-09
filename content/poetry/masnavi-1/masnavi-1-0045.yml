@@ -1,0 +1,31 @@
+id: masnavi-1-0045
+category: masnavi-1
+number: 45
+sectionTitle:
+  fa: ترجیح نهادن شیر جهد و اکتساب را بر توکّل و تسلیم
+firstLine:
+  fa: گفت آری گر توکّل رهبر‌ست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفت آری گر توکّل رهبر‌ست
+      - این سبب هم سُنّت پیغمبر‌ست
+    - - گفت پیغامبر به آواز بلند
+      - با توکّل زانو‌ی اشتر ببند
+    - - رمزِ الکاسِب حبیبُ الله شنو
+      - از توکّل در سبب کاهل مشو
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 45
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh45
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 45
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh45
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

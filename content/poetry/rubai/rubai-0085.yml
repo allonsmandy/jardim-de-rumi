@@ -1,0 +1,27 @@
+id: rubai-0085
+category: rubai
+number: 85
+firstLine:
+  fa: ای آنکه تو دیر آمده‌ای در کتاب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای آنکه تو دیر آمده‌ای در کتاب
+      - گر بشتابند کودکان تو مشتاب
+    - - گر مانده شدند قوم و از دست شدند
+      - این دست تو است زود برگیر رباب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 85
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh85
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 85
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh85
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

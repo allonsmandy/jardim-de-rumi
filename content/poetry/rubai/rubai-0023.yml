@@ -1,0 +1,27 @@
+id: rubai-0023
+category: rubai
+number: 23
+firstLine:
+  fa: ای دل بچه زهره خواستی یاری را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای دل بچه زهره خواستی یاری را
+      - کو کرد هلاک چون تو بسیاری را
+    - - دل گفت که تا شوم همه یکتائی
+      - این خواستم از بهر همین کاری را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 23
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh23
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 23
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh23
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

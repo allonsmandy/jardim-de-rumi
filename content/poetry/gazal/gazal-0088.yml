@@ -1,0 +1,33 @@
+id: gazal-0088
+category: gazal
+number: 88
+firstLine:
+  fa: شاد آمدی ای مه‌رو ای شادیِ جان شاد آ
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شاد آمدی ای مه‌رو ای شادیِ جان شاد آ
+      - تا بود چنین بودی تا باد چنان بادا
+    - - ای صورتِ هر شادی اندر دل ما یادی
+      - ای صورتِ عشقِ کل اندر دل ما یاد آ
+    - - بیرون پَر از این طفلی ما را بِرهان ای جان
+      - از منّت هر دادو وز غصّه هر دادا
+    - - ما چنگ زدیم از غم در یار و رخان ما
+      - ای دف تو بنال از دل وی نای به فریاد آ
+    - - ای دل تو که زیبایی شیرین شو از آن خسرو
+      - ور خسروِ شیرینی در عشق چو فرهاد آ
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 88
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh88
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 88
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh88
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

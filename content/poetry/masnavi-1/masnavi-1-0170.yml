@@ -1,0 +1,45 @@
+id: masnavi-1-0170
+category: masnavi-1
+number: 170
+sectionTitle:
+  fa: افتادن رکابدار هر باری پیش امیر المؤمنین علی کرم الله وجهه کی ای امیر المؤمنین مرا بکش و ازین قضا برهان
+firstLine:
+  fa: باز آمد کای علی زودم بکش
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - باز آمد کای علی زودم بکش
+      - تا نبینم آن دم و وقت ترش
+    - - من حلالت می‌کنم خونم بریز
+      - تا نبیند چشم من آن رستخیز
+    - - گفتم ار هر ذره‌ای خونی شود
+      - خنجر اندر کف به قصد تو رود
+    - - یک سر مو از تو نتواند برید
+      - چون قلم بر تو چنان خطی کشید
+    - - لیک بی غم شو شفیع تو منم
+      - خواجهٔ روحم نه مملوک تنم
+    - - پیش من این تن ندارد قیمتی
+      - بی تن خویشم فتی ابن الفتی
+    - - خنجر و شمشیر شد ریحان من
+      - مرگ من شد بزم و نرگسدان من
+    - - آنک او تن را بدین سان پی کند
+      - حرص میری و خلافت کی کند
+    - - زان به ظاهر کو شد اندر جاه و حکم
+      - تا امیران را نماید راه و حکم
+    - - تا امیری را دهد جانی دگر
+      - تا دهد نخل خلافت را ثمر
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 170
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh170
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 170
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh170
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

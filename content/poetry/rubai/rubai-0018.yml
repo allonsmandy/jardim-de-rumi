@@ -1,0 +1,27 @@
+id: rubai-0018
+category: rubai
+number: 18
+firstLine:
+  fa: ای چرخ فلک به مکر و بدسازی‌ها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای چرخ فلک به مکر و بدسازی‌ها
+      - از نطع دلم ببرده‌ای بازی‌ها
+    - - روزی بینی مرا تو بر خوان فلک
+      - سازم چون ماه کاسه‌پردازی‌ها
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 18
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh18
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 18
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh18
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

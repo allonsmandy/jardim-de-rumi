@@ -1,0 +1,39 @@
+id: masnavi-1-0147
+category: masnavi-1
+number: 147
+sectionTitle:
+  fa: نشاندن پادشاه، صوفیانِ عارف را پیش روی خویش تا چشمشان بدیشان روشن شود
+firstLine:
+  fa: پادشاهان را چنان عادت بود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - پادشاهان را چنان عادت بود
+      - این شنیده باشی ار یادت بود
+    - - دست چپشان پهلوانان ایستند
+      - زانک دل پهلوی چپ باشد ببند
+    - - مشرف و اهل قلم بر دست راست
+      - زانک علم خط و ثبت آن دست راست
+    - - صوفیان را پیش رو موضع دهند
+      - کاینهٔ جانند و ز آیینه بهند
+    - - سینه صیقلها زده در ذکر و فکر
+      - تا پذیرد آینهٔ دل نقش بکر
+    - - هر که او از صُلب فطرت خوب زاد
+      - آینه در پیش او باید نهاد
+    - - عاشق آیینه باشد روی خوب
+      - صیقل جان آمد و تقوی القلوب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 147
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh147
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 147
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh147
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

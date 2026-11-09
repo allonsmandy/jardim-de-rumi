@@ -1,0 +1,27 @@
+id: rubai-0060
+category: rubai
+number: 60
+firstLine:
+  fa: گر جان داری بیا و جان باز آنجا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر جان داری بیا و جان باز آنجا
+      - آن جای که بوده‌ای ز آغاز آنجا
+    - - یک نکته شنید جان از آنجا آمد
+      - صد نکته شنید چون نشد باز آنجا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 60
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh60
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 60
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh60
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

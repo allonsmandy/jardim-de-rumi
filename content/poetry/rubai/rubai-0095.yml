@@ -1,0 +1,27 @@
+id: rubai-0095
+category: rubai
+number: 95
+firstLine:
+  fa: بیکار مشین درآ درآمیز شتاب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بیکار مشین درآ درآمیز شتاب
+      - بیکار بُدن به خور برد یا سوی خواب
+    - - از اهل سماع می‌رسد بانگ رباب
+      - آن حلقهٔ واصل‌شد‌گان را دریاب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 95
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh95
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 95
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh95
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,47 @@
+id: gazal-0042
+category: gazal
+number: 42
+firstLine:
+  fa: کار تو داری صنما قدر تو باری صنما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - کار تو داری صنما قدر تو باری صنما
+      - ما همه پابسته تو شیر شکاری صنما
+    - - دلبر بی‌کینه ما شمع دل سینه ما
+      - در دو جهان در دو سرا کار تو داری صنما
+    - - ذره به ذره بر‌ِ تو سجده‌کنان بر در‌ِ تو
+      - چاکر و یاریگر تو آه چه یاری صنما
+    - - هر نفسی تشنه‌ترم بستهٔ جوع البقرم
+      - گفت که دریا بخوری‌؟ گفتم که‌آری صنما
+    - - هر کی ز تو نیست جدا‌، هیچ نمیرد به خدا
+      - آنگه اگر مرگ بود پیش تو باری صنما
+    - - نیست مرا کار و دکان هستم بی‌کار جهان
+      - زان که ندانم جز تو کارگزاری صنما
+    - - خواه شب و خواه سحر نیستم از هر دو خبر
+      - کیست خبر چیست خبر روز‌ شماری صنما
+    - - روز مرا دیدن تو شب غم ببریدن تو
+      - از تو شبم روز شود همچو نهاری صنما
+    - - باغ پر از نعمت من گلبن بازینت من
+      - هیچ ندید و نبود چون تو بهاری صنما
+    - - جسم مرا خاک کنی خاک مرا پاک کنی
+      - باز مرا نقش کنی ماه‌عذاری صنما
+    - - فلسفی‌َک کور شود نور از او دور شود
+      - زو ندمد سنبل دین چونک نکاری صنما
+    - - فلسفی این هستی من عارف تو مستی من
+      - خوبی این زشتی آن هم تو نگاری صنما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 42
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh42
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 42
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh42
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

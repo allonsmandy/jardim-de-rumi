@@ -1,0 +1,27 @@
+id: rubai-0088
+category: rubai
+number: 88
+firstLine:
+  fa: ای روی ترا غلام گلنار مخسب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای روی ترا غلام گلنار مخسب
+      - وی رونق نوبهار و گلزار مخسب
+    - - ای نرگس پرخمار خونخوار مخسب
+      - امشب شب عشرت است زنهار مخسب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 88
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh88
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 88
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh88
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

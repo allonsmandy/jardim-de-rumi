@@ -1,0 +1,35 @@
+id: gazal-0032
+category: gazal
+number: 32
+firstLine:
+  fa: دیدم سحر آن شاه را بر شاهراه هل اتی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دیدم سحر آن شاه را بر شاهراه هل اتی
+      - در خواب غفلت بی‌خبر زو بوالعلی و بوالعلا
+    - - زان می که در سر داشتم من ساغری برداشتم
+      - در پیش او می‌داشتم گفتم که ای شاه الصلا
+    - - گفتا چیست این ای فلان گفتم که خون عاشقان
+      - جوشیده و صافی چو جان بر آتش عشق و ولا
+    - - گفتا چو تو نوشیده‌ای در دیگ جان جوشیده‌ای
+      - از جان و دل نوشش کنم ای باغ اسرار خدا
+    - - آن دلبر سرمست من بستد قدح از دست من
+      - اندرکشیدش همچو جان کان بود جان را جان‌فزا
+    - - از جان گذشته صد درج هم در طرب هم در فرج
+      - می‌کرد اشارت آسمان کای چشم بد دور از شما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 32
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh32
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 32
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh32
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

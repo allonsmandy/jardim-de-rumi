@@ -1,0 +1,27 @@
+id: rubai-0070
+category: rubai
+number: 70
+firstLine:
+  fa: من ذره و خورشید لقایی تو مرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من ذره و خورشید لقایی تو مرا
+      - بیمار غمم عین دوایی تو مرا
+    - - بی‌بال و پر اندر پی تو می‌پرم
+      - من که شدم چو کهربایی تو مرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 70
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh70
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 70
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh70
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

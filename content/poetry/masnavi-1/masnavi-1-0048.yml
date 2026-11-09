@@ -1,0 +1,41 @@
+id: masnavi-1-0048
+category: masnavi-1
+number: 48
+sectionTitle:
+  fa: باز ترجیح نهادن نخچیران توکل را بر جهد
+firstLine:
+  fa: جمله با وی بانگ‌ها بر داشتند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - جمله با وی بانگ‌ها بر داشتند
+      - کان حریصان که سبب‌ها کاشتند
+    - - صد هزار اندر هزار از مرد و زن
+      - پس چرا محروم ماندند از زَمن
+    - - صد هزار‌ان قرن ز آغاز جهان
+      - همچو اژدر‌ها گُشاده صد دهان
+    - - مکر‌ها کردند آن دانا گُروه
+      - که ز بُن بر‌کنده شد زان مَکرْ کوه
+    - - کرد وَصف مکر‌هاشان ذوالجلال
+      - لِتَزُولَ مِنۡهُ اَقْلالُ ٱلجِبَالُ
+    - - جز که آن قسمت که رفت اندر ازل
+      - روی ننمود از شکار و از عمل
+    - - جمله افتادند از تدبیر و کار
+      - ماند کار و حکم‌های کردگار
+    - - کسپ جز نامی مدان ای نام‌دار
+      - جهد جز وَهمی مپندار ای عَیار
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 48
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh48
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 48
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh48
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

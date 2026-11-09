@@ -1,0 +1,49 @@
+id: masnavi-1-0031
+category: masnavi-1
+number: 31
+sectionTitle:
+  fa: ولی عهد ساختن وزیر هر یک امیر را جداجدا
+firstLine:
+  fa: وانگهانی آن امیران را بخواند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - وانگهانی آن امیران را بخواند
+      - یک‌بیک تنها بهر یک حرف راند
+    - - گفت هر یک را بدین عیسوی
+      - نایب حقّ و خلیفهٔ من توی
+    - - وان امیران دگر، اتباع تو
+      - کَرد عیسی جمله را اشیاع تو
+    - - هر امیری کو کِشد گردن، بگیر
+      - یا بکُش یا خود همی دارش اسیر
+    - - لیک تا من زنده‌ام این وا مگو
+      - تا نمیرم این ریاست را مجو
+    - - تا نمیرم من تو این پیدا مکن
+      - دعوی شاهی و استیلا مکن
+    - - اینک این طومار و احکام مسیح
+      - یک بیک بر خوان تو بر امت فصیح
+    - - هر امیری را چنین گفت او جدا
+      - نیست نایب جز تو در دین خدا
+    - - هر یکی را کرد او یک‌یک عزیز
+      - هرچه آن را گفت این را گفت نیز
+    - - هر یکی را او یکی طومار داد
+      - هر یکی ضدّ دگر بود المراد
+    - - متن آن طومارها بُد مختلف
+      - همچو شکل حرفها یا تا الف
+    - - حکم این طومار ضد حکم آن
+      - پیش ازین کردیم این ضد را بیان
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 31
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh31
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 31
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh31
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

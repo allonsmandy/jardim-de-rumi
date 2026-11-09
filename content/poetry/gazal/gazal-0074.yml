@@ -1,0 +1,37 @@
+id: gazal-0074
+category: gazal
+number: 74
+firstLine:
+  fa: گر زان که نه‌ای طالب جوینده شوی با ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر زان که نه‌ای طالب جوینده شوی با ما
+      - ور زان که نه‌ای مطرب گوینده شوی با ما
+    - - گر زان که تو قارونی در عشق شوی مفلس
+      - ور زان که خداوندی هم بنده شوی با ما
+    - - یک شمع از این مجلس صد شمع بگیراند
+      - گر مرده‌ای ور زنده هم زنده شوی با ما
+    - - پاهای تو بگشاید روشن به تو بنماید
+      - تا تو همه تن چون گل در خنده شوی با ما
+    - - در ژنده درآ یک دم تا زنده دلان بینی
+      - اطلس به دراندازی در ژنده شوی با ما
+    - - چون دانه شد افکنده بررست و درختی شد
+      - این رمز چو دریابی افکنده شوی با ما
+    - - شمس الحق تبریزی با غنچه دل گوید
+      - چون باز شود چشمت بیننده شوی با ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 74
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh74
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 74
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh74
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

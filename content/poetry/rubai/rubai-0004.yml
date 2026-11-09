@@ -1,0 +1,27 @@
+id: rubai-0004
+category: rubai
+number: 4
+firstLine:
+  fa: آن لعل سخن که جان دهد مرجان را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن لعل سخن که جان دهد مرجان را
+      - بی‌رنگ چه رنگ بخشد او مر جان را
+    - - مایه بخشد مشعلهٔ ایمان را
+      - بسیار بگفتیم و نگفتیم آن را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 4
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh4
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 4
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh4
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

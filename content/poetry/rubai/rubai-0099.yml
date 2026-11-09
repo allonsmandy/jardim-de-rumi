@@ -1,0 +1,27 @@
+id: rubai-0099
+category: rubai
+number: 99
+firstLine:
+  fa: در چشم آمد خیال آن دُر خوشاب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در چشم آمد خیال آن دُر خوشاب
+      - آن لحظه کزو اشک همی‌رفت شتاب
+    - - پنهان گفتم به‌راز در گوش دو چشم
+      - مهمان عزیز است‌، بیفزای شراب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 99
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh99
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 99
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh99
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

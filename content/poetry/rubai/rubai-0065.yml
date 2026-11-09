@@ -1,0 +1,27 @@
+id: rubai-0065
+category: rubai
+number: 65
+firstLine:
+  fa: گویم که کیست روح‌افراز مرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گویم که کیست روح‌افراز مرا
+      - آنکس که بداد جان ز آغاز مرا
+    - - گه چشم مرا چو باز بر می‌بندد
+      - گه بگشاید به صید چون باز مرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 65
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh65
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 65
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh65
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

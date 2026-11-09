@@ -1,0 +1,80 @@
+# MODELO de texto traduzido — copie os blocos marcados com «NOVO» para o arquivo pendente.
+# Os blocos marcados com «JÁ EXISTE» vieram do importador: não os altere.
+# Os textos entre « » são instruções: substitua-os pelo conteúdo real.
+# Exemplo: uma seção do Masnavi. Para o Divã de Shams, não existe sectionTitle.
+
+id: masnavi-1-0001 # «JÁ EXISTE»
+category: masnavi-1 # «JÁ EXISTE»
+number: 1 # «JÁ EXISTE»
+sectionTitle:
+  fa: سرآغاز # «JÁ EXISTE»
+  pt: '«NOVO: título da seção traduzido — vira o título da página»'
+firstLine:
+  fa: بشنو این نی چون شکایت می‌کند # «JÁ EXISTE»
+  pt: '«NOVO: primeiro verso traduzido, sem pontuação final»'
+originalLanguage: fa
+original: # «JÁ EXISTE» — nunca editar
+  language: fa
+  stanzas:
+    - - بشنو این نی چون شکایت می‌کند
+      - از جدایی‌ها حکایت می‌کند
+    # …
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 1
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh1
+
+# «NOVO» ────────────────────────────────────────────────────────────────
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas: # mesmo número de estrofes E de versos que original.stanzas
+    - - «hemistíquio 1 do dístico 1»
+      - «hemistíquio 2 do dístico 1»
+    # …
+  translators:
+    - Codex (IA, OpenAI)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft # era "pending"
+publicationAuthorized: true # era "false"
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: AAAA-MM-DD # data de hoje
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+
+references: # «JÁ EXISTE» — pode acrescentar fontes consultadas (ids de content/sources.yml)
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 1
+
+themes: # «NOVO» 2 a 4 temas em linguagem simples
+  - «ex.: A saudade de casa»
+
+introduction: # «NOVO» 2 a 3 parágrafos para quem nunca leu poesia persa
+  - «do que o trecho fala; no Masnavi, em que história ele está»
+  - «por que importa / uma curiosidade»
+
+stanzaNotes: # «NOVO» UM item para CADA estrofe (stanza começa em 1)
+  - stanza: 1
+    plain: '«Em palavras simples: a ideia do dístico, como para um amigo de 15 anos.»'
+    meaning: >-
+      '«Por trás das palavras: imagens, costumes, alusões ao Alcorão, leitura amorosa e mística.»'
+    literal: '«palavra / por palavra, com colchetes para acréscimos»'
+    choices: >-
+      '«Por que traduziu assim: palavras persas difíceis entre aspas, alternativas, ambiguidades.»'
+
+glossary: [ney, masnavi] # «NOVO» ids de content/glossary.yml (crie os que faltarem)
+
+culturalNotes: # «NOVO» opcional, 1 a 3 notas sobre o texto inteiro
+  - title: '«título curto»'
+    body: '«nota; lendas sempre como lendas»'
+    sources: [] # obrigatório para afirmações históricas (ids de content/sources.yml)
+
+editorialNotes: # «JÁ EXISTE»
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: AAAA-MM-DD # «NOVO» data de hoje

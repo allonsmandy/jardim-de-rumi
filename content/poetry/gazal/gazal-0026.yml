@@ -1,0 +1,43 @@
+id: gazal-0026
+category: gazal
+number: 26
+firstLine:
+  fa: هر لحظه وحیِ آسمان آید به سر جان‌ها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هر لحظه وحیِ آسمان آید به سر جان‌ها
+      - کاخر چو دُردی بر زمین تا چند می‌باشی برآ
+    - - هر کز گران‌جانان بُوَد چون دُرد در پایان بُوَد
+      - آنگه رَوَد بالایِ خم کان دُرد او یابد صفا
+    - - گل را مجنبان هر دمی تا آب تو صافی شود
+      - تا درد تو روشن شود تا درد تو گردد دوا
+    - - جانیست چون شعله ولی دودش ز نورش بیشتر
+      - چون دود از حد بگذرد در خانه ننماید ضیا
+    - - گر دود را کمتر کنی از نور شعله برخوری
+      - از نور تو روشن شود هم این سرا هم آن سرا
+    - - در آب تیره بنگری نی ماه بینی نی فلک
+      - خورشید و مَه پنهان شود چون تیرگی گیرد هوا
+    - - بادِ شمالی می‌وزد کز وی هوا صافی شود
+      - وز بهرِ این صیقل سَحَر در می‌دمد بادِ صبا
+    - - بادِ نفَس مر سینه را ز اندوه صیقل می‌زند
+      - گر یک نفَس گیرد نفَس مر نفس را آید فنا
+    - - جانِ غریب اندر جهان مشتاقِ شهرِ لامکان
+      - نفسِ بهیمی در چَرا چندین چَرا باشد چِرا
+    - - ای جانِ پاکِ خوش‌گهر تا چند باشی در سفر
+      - تو بازِ شاهی باز پَر سویِ صفیرِ پادِشا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 26
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh26
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 26
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh26
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

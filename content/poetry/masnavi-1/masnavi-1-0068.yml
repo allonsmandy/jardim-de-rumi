@@ -1,0 +1,39 @@
+id: masnavi-1-0068
+category: masnavi-1
+number: 68
+sectionTitle:
+  fa: جواب گفتن هدهد طعنهٔ زاغ را
+firstLine:
+  fa: گفت ای شه بر من عور گدای
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفت ای شه بر من عور گدای
+      - قول دشمن مشنو از بهر خدای
+    - - گر به بطلانست دعوی کردنم
+      - من نهادم سر ببُر این گردنم
+    - - زاغ کو حکمِ قضا را منکرست
+      - گر هزاران عقل دارد کافرست
+    - - در تو تا کافی بود از کافران
+      - جای گَند و شهوتی چون کافِ ران
+    - - من ببینم دام را اندر هوا
+      - گر نپوشد چشم عقلم را قضا
+    - - چون قضا آید شود دانش بخواب
+      - مه سیه گردد بگیرد آفتاب
+    - - از قضا این تعبیه کی نادِرست
+      - از قضا دان کو قضا را مُنکرست
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 68
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh68
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 68
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh68
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

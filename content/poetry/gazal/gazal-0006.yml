@@ -1,0 +1,41 @@
+id: gazal-0006
+category: gazal
+number: 6
+firstLine:
+  fa: بگریز ای میر اجل از ننگ ما از ننگ ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بگریز ای میر اجل از ننگ ما از ننگ ما
+      - زیرا نمی‌دانی شدن همرنگ ما همرنگ ما
+    - - از حمله‌های جند او وز زخم‌های تند او
+      - سالم نماند یک رگت بر چنگ ما بر چنگ ما
+    - - اول شرابی درکشی سرمست گردی از خوشی
+      - بیخود شوی آنگه کنی آهنگ ما آهنگ ما
+    - - زین باده می‌خواهی برو اول تنک چون شیشه شو
+      - چون شیشه گشتی برشکن بر سنگ ما بر سنگ ما
+    - - هر کآن می احمر خورد بابرگ گردد برخورد
+      - از دل فراخی‌ها برد دلتنگ ما دلتنگ ما
+    - - بس جره‌ها در جو زند بس بربط شش تو زند
+      - بس با شهان پهلو زند سرهنگ ما سرهنگ ما
+    - - ماده است مریخ زمن این جا در این خنجر زدن
+      - با مقنعه کی تان شدن در جنگ ما در جنگ ما
+    - - گر تیغ خواهی تو ز خور از بدر برسازی سپر
+      - گر قیصری اندرگذر از زنگ ما از زنگ ما
+    - - اسحاق شو در نحر ما خاموش شو در بحر ما
+      - تا نشکند کشتی تو در گنگ ما در گنگ ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 6
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh6
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 6
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh6
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

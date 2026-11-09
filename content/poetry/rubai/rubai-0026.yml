@@ -1,0 +1,27 @@
+id: rubai-0026
+category: rubai
+number: 26
+firstLine:
+  fa: ای شب ، شادی همیشه بادی شادا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای شب ، شادی همیشه بادی شادا
+      - عمرت به درازیِ قیامت بادا
+    - - در یاد من آتشی است از صورت دوست
+      - ای غصه اگر تو زهره داری یادا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 26
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh26
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 26
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh26
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

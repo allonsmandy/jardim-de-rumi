@@ -1,0 +1,37 @@
+id: gazal-0050
+category: gazal
+number: 50
+firstLine:
+  fa: ای بگرفته از وفا گوشهٔ کران چرا چرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای بگرفته از وفا گوشهٔ کران چرا چرا
+      - بر من خسته کرده‌ای روی گران، چرا چرا؟
+    - - بر دل من که جای توست، کارگه وفای توست
+      - هر نفسی همی‌ زنی زخم سنان، چرا چرا؟
+    - - گوهر تو به گوهری، برد سبق ز مشتری
+      - جان و جهان همی بری، جان و جهان، چرا چرا؟
+    - - چشمهٔ خضر و کوثری، زآب حیات خوش‌تری
+      - زآتش هجر تو منم، خشک‌دهان، چرا چرا؟
+    - - مهر تو جان نهان بود، مهر تو بی‌نشان بود
+      - در دل من ز بهر تو، نقش و نشان، چرا چرا؟
+    - - گفت که «جانِ جان منم، دیدن جان، طمع مکن»
+      - ای بنموده روی تو، صورت جان، چرا چرا؟
+    - - ای تو به نور مستقل! وی ز تو اختران خجل!
+      - بس دودلی میان دل، ز ابر گمان، چرا چرا؟
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 50
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh50
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 50
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh50
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

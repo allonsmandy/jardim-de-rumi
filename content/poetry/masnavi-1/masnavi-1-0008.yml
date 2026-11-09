@@ -1,0 +1,31 @@
+id: masnavi-1-0008
+category: masnavi-1
+number: 8
+sectionTitle:
+  fa: دریافتن آن ولی رنج را و عرض کردن رنج او را پیش پادشاه
+firstLine:
+  fa: بعد از آن برخاست و عزم شاه کرد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بعد از آن برخاست و عزم شاه کرد
+      - شاه را زان شمّه‌ای آگاه کرد
+    - - گفت تدبیر آن بوَد کان مرد را
+      - حاضر آریم از پی این درد را
+    - - مرد زرگر را بخوان زان شهر دور
+      - با زر و خلعت بده او را غرور
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 8
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh8
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 8
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh8
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,27 @@
+id: rubai-0003
+category: rubai
+number: 3
+firstLine:
+  fa: آن کس که ترا نقش کند او تنها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن کس که ترا نقش کند او تنها
+      - تنها نگذاردت میان سودا
+    - - در خانه تصویر تو یعنی دل تو
+      - بر رویاند دو صد حریف زیبا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 3
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh3
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 3
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh3
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

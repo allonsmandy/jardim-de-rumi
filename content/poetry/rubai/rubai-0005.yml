@@ -1,0 +1,27 @@
+id: rubai-0005
+category: rubai
+number: 5
+firstLine:
+  fa: آن وقت که بحر کل شود ذات مرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن وقت که بحر کل شود ذات مرا
+      - روشن گردد جمال ذرات مرا
+    - - زان می‌سوزم چو شمع تا در ره عشق
+      - یک وقت شود جمله اوقات مرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 5
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh5
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 5
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh5
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

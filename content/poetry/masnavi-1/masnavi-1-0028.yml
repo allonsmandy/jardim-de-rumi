@@ -1,0 +1,33 @@
+id: masnavi-1-0028
+category: masnavi-1
+number: 28
+sectionTitle:
+  fa: جواب گفتن وزیر کی خلوت را نمی‌شکنم
+firstLine:
+  fa: گفت حجت‌های خود کوته کنید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفت حجت‌های خود کوته کنید
+      - پند را در جان و در دل ره کنید
+    - - گر اَمینم، متهم نبوَد امین
+      - گر بگویم آسمان را من زمین
+    - - گر کمالم، با کمال اِنکار چیست
+      - ور نیَم، این زحمت و آزار چیست
+    - - من نخواهم شد ازین خلوت برون
+      - زانک مشغولم باحوال درون
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 28
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh28
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 28
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh28
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

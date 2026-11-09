@@ -1,0 +1,27 @@
+id: rubai-0049
+category: rubai
+number: 49
+firstLine:
+  fa: دود دل ما نشان سودا‌ست دلا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دود دل ما نشان سودا‌ست دلا
+      - و‌آن‌دود که از دل است‌، پیداست دلا
+    - - هر موج که می‌زند دل از خون ای دل
+      - آن دل نبود مگر که دریا‌ست دلا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 49
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh49
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 49
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh49
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

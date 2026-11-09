@@ -1,0 +1,27 @@
+id: rubai-0021
+category: rubai
+number: 21
+firstLine:
+  fa: ای در سر زلف تو پریشانی‌ها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای در سر زلف تو پریشانی‌ها
+      - واندر لب لعلت شکرافشانی‌ها
+    - - گفتی ز فراق ما پشیمان گشتی
+      - ای جان چه پشیمان که پشیمانی‌ها
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 21
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh21
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 21
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh21
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,27 @@
+id: rubai-0045
+category: rubai
+number: 45
+firstLine:
+  fa: در چشم ببین دو چشم آن مفتون را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در چشم ببین دو چشم آن مفتون را
+      - نیکو بشنو تو نکتهٔ بیچون را
+    - - هر خون که نخورده‌ست آن نرگس او
+      - از دیدهٔ من روان ببین آن خون را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 45
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh45
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 45
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh45
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

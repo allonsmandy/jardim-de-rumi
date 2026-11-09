@@ -1,0 +1,33 @@
+id: masnavi-1-0020
+category: masnavi-1
+number: 20
+sectionTitle:
+  fa: پیغام شاه پنهان با وزیر
+firstLine:
+  fa: در میانِ شاه و او پیغام‌ها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در میانِ شاه و او پیغام‌ها
+      - شاه را پنهان بدو آرام‌ها
+    - - آخر‌الامر از برای آن مُراد
+      - تا دهد چون خاک ایشان را به باد
+    - - پیشِ او بنوشت شه کای مُقبلم
+      - وقت آمد‌ زود فارغ کن دلم
+    - - گفت اینک اندر آن کارم شها
+      - کافکنم در دین عیسی فتنه‌ها
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 20
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh20
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 20
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh20
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

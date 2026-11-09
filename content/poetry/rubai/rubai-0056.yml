@@ -1,0 +1,27 @@
+id: rubai-0056
+category: rubai
+number: 56
+firstLine:
+  fa: عشقست طریق و راه پیغمبر ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عشقست طریق و راه پیغمبر ما
+      - ما زادهٔ عشق و عشق شد مادر ما
+    - - ای مادر ما نهفته در چادر ما
+      - پنهان شده از طبیعت کافر ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 56
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh56
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 56
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh56
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

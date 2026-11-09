@@ -1,0 +1,27 @@
+id: rubai-0009
+category: rubai
+number: 9
+firstLine:
+  fa: از خاک ندیده تیره ایامان را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - از خاک ندیده تیره ایامان را
+      - از دور ندیده دوزخ آشامان را
+    - - دعوی چکنی عشق دلارامان را
+      - با عشق چکار است نکونامان را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 9
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh9
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 9
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh9
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

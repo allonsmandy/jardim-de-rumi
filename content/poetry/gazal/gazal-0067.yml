@@ -1,0 +1,39 @@
+id: gazal-0067
+category: gazal
+number: 67
+firstLine:
+  fa: از آن مایی ای مولا اگر امروز اگر فردا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - از آن مایی ای مولا اگر امروز اگر فردا
+      - شب و روزم ز تو روشن زهی رعنا زهی زیبا
+    - - تو پاک پاکی از صورت ولیک از پرتو نورت
+      - نمایی صورتی هر دم چه باحسن و چه بابالا
+    - - چو ابرو را چنین کردی چه صورت‌های چین کردی
+      - مرا بی‌عقل و دین کردی بر آن نقش و بر آن حورا
+    - - مرا گویی چه عشقست این که نی بالا نه پستست این
+      - چه صیدی بی ز شستست این درون موج این دریا
+    - - ایا معشوق هر قدسی چو می‌دانی چه می‌پرسی
+      - که سر عرش و صد کرسی ز تو ظاهر شود پیدا
+    - - زدی در من یکی آتش که شد جان مرا مفرش
+      - که تا آتش شود گل خوش که تا یکتا شود صد تا
+    - - فرست آن عشق ساقی را بگردان جام باقی را
+      - که از مزج و تلاقی را ندانم جامش از صهبا
+    - - بکن این رمز را تعیین بگو مخدوم شمس الدین
+      - به تبریز نکوآیین ببر این نکته غرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 67
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh67
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 67
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh67
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

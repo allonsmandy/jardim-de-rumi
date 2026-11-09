@@ -1,0 +1,33 @@
+id: masnavi-1-0057
+category: masnavi-1
+number: 57
+sectionTitle:
+  fa: باز طلبیدن نخچیران از خرگوش سر اندیشهٔ او را
+firstLine:
+  fa: بعد از آن گفتند کای خرگوش چست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بعد از آن گفتند کای خرگوش چست
+      - در میان آر آنچ در ادراک تست
+    - - ای که با شیری تو در پیچیده‌ای
+      - بازگو رایی که اندیشیده‌ای
+    - - مشورت ادراک و هشیاری دهد
+      - عقلها مر عقل را یاری دهد
+    - - گفت پیغامبر بکن ای رای‌زن
+      - مشورت کالمستشار مؤتمن
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 57
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh57
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 57
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh57
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

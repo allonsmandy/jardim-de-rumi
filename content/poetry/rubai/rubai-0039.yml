@@ -1,0 +1,27 @@
+id: rubai-0039
+category: rubai
+number: 39
+firstLine:
+  fa: تا نقش خیال دوست با ماست دلا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تا نقش خیال دوست با ماست دلا
+      - ما را همه عمر خود تماشاست دلا
+    - - وانجا که مراد دل برآید ای دل
+      - یک خار به از هزار خرماست دلا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 39
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh39
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 39
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh39
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

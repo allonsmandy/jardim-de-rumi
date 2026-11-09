@@ -1,0 +1,27 @@
+id: rubai-0019
+category: rubai
+number: 19
+firstLine:
+  fa: ای خواجه به خواب درنبینی ما را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای خواجه به خواب درنبینی ما را
+      - تا سال دگر دگر نبینی ما را
+    - - ای شب هردم که جانب ما نگری
+      - بی‌روشنی سحر نبینی ما را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 19
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh19
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 19
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh19
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

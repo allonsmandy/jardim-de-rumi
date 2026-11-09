@@ -1,0 +1,27 @@
+id: rubai-0048
+category: rubai
+number: 48
+firstLine:
+  fa: دل گفت به جان کای خلف هر دو سرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دل گفت به جان کای خلف هر دو سرا
+      - زین کار که چشم داری از کار و کیا
+    - - برخیز که تا پیشترک ما برویم
+      - زان پیش که قاصدی بیاید که بیا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 48
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh48
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 48
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh48
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,27 @@
+id: rubai-0094
+category: rubai
+number: 94
+firstLine:
+  fa: بی‌طاعت دین بهشت رحمان مطلب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بی‌طاعت دین بهشت رحمان مطلب
+      - بی‌خاتم حق ملک سلیمان مطلب
+    - - چون عاقبت کار اجل خواهد بود
+      - آزار دل هیچ مسلمان مطلب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 94
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh94
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 94
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh94
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

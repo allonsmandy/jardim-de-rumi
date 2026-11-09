@@ -1,0 +1,37 @@
+id: gazal-0085
+category: gazal
+number: 85
+firstLine:
+  fa: از بهر خدا بنگر در رویِ چو زر جانا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - از بهر خدا بنگر در رویِ چو زر جانا
+      - هر جا که روی ما را با خویش ببر جانا
+    - - چون در دل ما آیی تو دامن خود برکش
+      - تا جامه نیالایی از خون جگر جانا
+    - - ای ماه برآ آخر بر کوریِ مه‌رویان
+      - ابری سیه اندرکش در روی قمر جانا
+    - - زان روز که زادی تو ای لب‌شکر از مادر
+      - آوه که چه کاسد شد بازار شکر جانا
+    - - گفتی که سلام علیک بگرفت همه عالم
+      - دل سجده درافتاده جان بسته کمر جانا
+    - - چون شمع بُدم سوزان هر شب به سحر کُشته
+      - امروز بنشناسم شب را ز سحر جانا
+    - - شمس الحق تبریزی شاهنشه خون‌ریزی
+      - ای بحر کمربسته پیش تو گهر جانا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 85
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh85
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 85
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh85
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

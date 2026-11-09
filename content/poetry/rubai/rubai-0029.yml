@@ -1,0 +1,27 @@
+id: rubai-0029
+category: rubai
+number: 29
+firstLine:
+  fa: ای آنکه گرفت شربت از مشرب ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای آنکه گرفت شربت از مشرب ما
+      - مستی گردد که روز بیند شب ما
+    - - ای آنکه گریخت از در مذهب ما
+      - گوشش بکشد فراق تا ملهب ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 29
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh29
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 29
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh29
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

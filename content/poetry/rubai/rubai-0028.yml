@@ -1,0 +1,27 @@
+id: rubai-0028
+category: rubai
+number: 28
+firstLine:
+  fa: این روزه چو غربا ل ببیزد جان را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - این روزه چو غربا ل ببیزد جان را
+      - پیدا آرد قراضهٔ پنهان را
+    - - جانی که کند خیره مه تابان را
+      - بی‌پرده شود نور دهد کیوان را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 28
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh28
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 28
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh28
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

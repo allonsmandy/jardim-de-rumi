@@ -1,0 +1,27 @@
+id: rubai-0042
+category: rubai
+number: 42
+firstLine:
+  fa: چون زود نبشته بود حقْ فرقت ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چون زود نبشته بود حقْ فرقت ما
+      - از بهر چه بود جنگ و آن وحشت ما
+    - - گر بد بودیم رستی از زحمت ما
+      - ور نیک بدیم یاد کن صحبت ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 42
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh42
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 42
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh42
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,55 @@
+id: masnavi-1-0014
+category: masnavi-1
+number: 14
+sectionTitle:
+  fa: تلبیس وزیر با نصاری
+firstLine:
+  fa: پس بگویم من به سِر نصرانی ام
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - پس بگویم من به سِر نصرانی ام
+      - ای خدای رازدان ،می‌دانی ام
+    - - شاه واقف گشت از ایمان من
+      - وز تعصب کرد قصد جان من
+    - - خواستم تا دین ز شه پنهان کنم
+      - آنکه  دین اوست ظاهر آن کُنم
+    - - شاه بویی برد از اسرار من
+      - متّهم شد پیش شه گفتار من
+    - - گفت :گفتِ تو چو در نان سوزن است
+      - از دل من تا دل تو روزن است
+    - - من از آن روزن بدیدم حال تو
+      - حال تو دیدم ننوشم قال تو
+    - - گر نبودی جان عیسی چاره‌ام
+      - او جهودانه بکردی پاره‌ام
+    - - بهر عیسی جان سپارم سَر دهم
+      - صد هزاران منّتش بر خود نهم
+    - - جان دریغم نیست از عیسی ولیک
+      - واقفم بر علمِ دینش نیک‌نیک
+    - - حیف می‌آمد مرا کآن دینِ پاک
+      - درمیان جاهلان گردد هلاک
+    - - شکر ایزد را و عیسی را که ما
+      - گشته‌ایم آن کیش حق را ره‌نما
+    - - از جهود و از جهودی رَسته‌ایم
+      - تا به زنّاری میان را بسته‌ایم
+    - - دور دورِ عیسیَ است ای مردمان
+      - بشنوید اسرارِ کیش او به جان
+    - - کرد با وی شاه آن کاری که گفت
+      - خلق حیران مانده زآن مَکرِ نهفت
+    - - راند او را جانب نَصرانیان
+      - کرد در دعوت شروع او بعد از آن
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 14
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh14
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 14
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh14
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

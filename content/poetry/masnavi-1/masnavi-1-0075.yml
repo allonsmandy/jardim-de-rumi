@@ -1,0 +1,33 @@
+id: masnavi-1-0075
+category: masnavi-1
+number: 75
+sectionTitle:
+  fa: پند دادن خرگوش نخچیران را کی بدین شاد مشوید
+firstLine:
+  fa: هین به مُلکِ نوبتی شادی مکن
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هین به مُلکِ نوبتی شادی مکن
+      - ای تو بستهٔ نوبت آزادی مکن
+    - - آنک ملکش برتر از نوبت تنند
+      - برتر از هفت انجمش نوبت زنند
+    - - برتر از نوبت ملوک باقیند
+      - دور دایم روحها با ساقیند
+    - - ترک این شُرب ار بگویی یک دو روز
+      - در کنی اندر شرابِ خُلد پوز
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 75
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh75
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 75
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh75
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

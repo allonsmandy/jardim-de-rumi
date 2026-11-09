@@ -1,0 +1,37 @@
+id: gazal-0040
+category: gazal
+number: 40
+firstLine:
+  fa: طوق جنون سلسله شد باز مکن سلسله را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - طوق جنون سلسله شد باز مکن سلسله را
+      - لابه‌گری می‌کنمت راه تو زن قافله را
+    - - مست و خوش و شاد توام حاملهٔ داد توام
+      - حامله‌گر بار نهد جرم منه حامله را
+    - - هیچ فلک دفع کند از سر خود دور سفر
+      - هیچ زمین دفع کند از تن خود زلزله را
+    - - می‌کشد آن شه رقمی دل به کفَش چون قلمی
+      - تازه کن اسلام دمی خواجه رها کن گله را
+    - - آنچ کند شاه جفا آبله دان بر کف شه
+      - آنک بیابد کف شه بوسه دهد آبله را
+    - - همچو کتابی‌ست جهان جامع احکام نهان
+      - جان تو سردفتر آن فهم کن این مسئله را
+    - - شاد همی باش و ترش آب بگردان و خمش
+      - باز کن از گردن خر مشغلهٔ زنگله را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 40
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh40
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 40
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh40
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

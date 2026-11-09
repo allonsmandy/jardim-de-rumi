@@ -1,0 +1,43 @@
+id: gazal-0091
+category: gazal
+number: 91
+firstLine:
+  fa: در آب فکن ساقی بط زاده آبی را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در آب فکن ساقی بط زاده آبی را
+      - بشتاب و شتاب اولی مستان شبابی را
+    - - ای جان بهار و دی وی حاتم نقل و می
+      - پر کن ز شکر چون نی بوبکر ربابی را
+    - - ای ساقی شور و شر هین عیش بگیر از سر
+      - پر کن ز می احمر سغراق و شرابی را
+    - - بنما ز می فرخ این سو اخ و آن سو اخ
+      - بربای نقاب از رخ معشوق نقابی را
+    - - احسنت زهی یار او شاخ گل بی‌خار او
+      - شاباش زهی دارو دل‌های کبابی را
+    - - صد حلقه نگر شیدا زان باده ناپیدا
+      - کاسد کند این صهبا صد خمر لعابی را
+    - - مستان چمن پنهان اشکوفه ز شاخ افشان
+      - صد کوه چو که غلطان سیلاب حبابی را
+    - - گر آن قدح روشن جانست نهان از تن
+      - پنهان نتوان کردن مستی و خرابی را
+    - - ماییم چو کشت ای جان سرسبز در این میدان
+      - تشنه شده و جویان باران سحابی را
+    - - چون رعد نه‌ای خامش چون پرده تست این هش
+      - وز صبر و فنا می‌کش طوطی خطابی را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 91
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh91
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 91
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh91
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

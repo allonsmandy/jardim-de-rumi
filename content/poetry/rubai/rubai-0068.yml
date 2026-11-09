@@ -1,0 +1,27 @@
+id: rubai-0068
+category: rubai
+number: 68
+firstLine:
+  fa: ما أطیَبَ ما ألَذَّ ما أحلانا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ما أطیَبَ ما ألَذَّ ما أحلانا
+      - کُنّا مُهَجاً و لَم نَکُن أبْداناً
+    - - إنْ شاءَ بِنا کَرامَهً مولانا
+      - یَعْفُو و یُعیدُنا کَما أبْدانا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 68
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh68
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 68
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh68
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

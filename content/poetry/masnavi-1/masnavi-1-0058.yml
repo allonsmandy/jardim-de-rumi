@@ -1,0 +1,45 @@
+id: masnavi-1-0058
+category: masnavi-1
+number: 58
+sectionTitle:
+  fa: منع کردن خرگوش از راز ایشان را
+firstLine:
+  fa: گفت هر رازی نشاید باز گفت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفت هر رازی نشاید باز گفت
+      - جفت طاق آید گهی، گه طاق، جفت
+    - - از صَفا گر دَم زَنی با آینه
+      - تیره گردد زود با ما آینه
+    - - در بیانِ این سه، کَم جُنبان لبت
+      - از ذِهاب و از ذَهَب، وَز مَذهبت
+    - - کین سه را خصمست بسیار و عدو
+      - در کمینت ایستد چون داند او
+    - - ور بگویی با یکی دو، الوَداع
+      - کُلُّ سرٍّ جاوَزَ الاثْنَینِ شاع
+    - - گر دو سه پَرَّنده را بندی به هَم
+      - بر زمین مانند محبوس از اَلَم
+    - - مشورت دارند سَرپوشیده خوب
+      - در کنایت با غلط‌ افکن مشوب
+    - - مشورت کردی پیمبر بسته‌سَر
+      - گفته ایشانش جواب و بی‌خبر
+    - - در مثالی بسته گفتی رای را
+      - تا ندانند خصم از سَر پای را
+    - - او جواب خویش بگرفتی ازو
+      - وز سؤالش می‌نبُردی غیرْ بو
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 58
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh58
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 58
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh58
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

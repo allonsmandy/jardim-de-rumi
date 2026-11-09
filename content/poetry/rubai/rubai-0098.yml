@@ -1,0 +1,27 @@
+id: rubai-0098
+category: rubai
+number: 98
+firstLine:
+  fa: دانی‌که چه می‌گوید این بانگ رباب‌؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دانی‌که چه می‌گوید این بانگ رباب‌؟
+      - اندر پی من بیا و ره را دریاب
+    - - زیرا به خطا راه بری سوی صواب
+      - زیرا به سؤال ره بری سوی جواب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 98
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh98
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 98
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh98
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

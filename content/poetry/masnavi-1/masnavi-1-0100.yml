@@ -1,0 +1,47 @@
+id: masnavi-1-0100
+category: masnavi-1
+number: 100
+sectionTitle:
+  fa: تفسیر بیت حکیم سنائی رضی‌ الله عنه «آسمانهاست در ولایتِ جان، کارفرمای آسمان جهان» «در ره روح پست و بالاهاست،  کوههای بلند و دریاهاست»
+firstLine:
+  fa: غیب را ابری و آبی دیگرست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - غیب را ابری و آبی دیگرست
+      - آسمان و آفتابی دیگرست
+    - - ناید آن الّا که بر خاصان پدید
+      - باقیان فی لَبْس مِنْ خَلْقٍ جَدید
+    - - هست باران از پی پروردگی
+      - هست باران از پی پژمردگی
+    - - نفع باران بهاران بوالعجب
+      - باغ را باران پاییزی چو تب
+    - - آن بهاری نازپروردش کند
+      - وین خزانی ناخوش و زردش کند
+    - - همچنین سرما و باد و آفتاب
+      - بر تفاوت دان و سررشته بیاب
+    - - همچنین در غیب انواعست این
+      - در زیان و سود و در ربح و غبین
+    - - این دم ابدال باشد زان بهار
+      - در دل و جان روید از وی سبزه‌زار
+    - - فعل باران بهاری با درخت
+      - آید از انفاسشان در نیکبخت
+    - - گر درخت خشک باشد در مکان
+      - عیب آن از باد جان‌افزا مدان
+    - - باد کار خویش کرد و بر وزید
+      - آنک جانی داشت بر جانش گزید
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 100
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh100
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 100
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh100
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,27 @@
+id: rubai-0052
+category: rubai
+number: 52
+firstLine:
+  fa: تنبور چو تن تن برآرد به نوا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تنبور چو تن تن برآرد به نوا
+      - زنجیر در آن شود دل بی‌سر و پا
+    - - زیرا که نهان در زهش آواز کسی
+      - می‌گوید او که جسته همراه بیا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 52
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh52
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 52
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh52
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,27 @@
+id: rubai-0091
+category: rubai
+number: 91
+firstLine:
+  fa: ای یار که نیست همچو تو یار مخسب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای یار که نیست همچو تو یار مخسب
+      - وی آنکه ز تو راست شود کار مخسب
+    - - امشب ز تو صد شمع بخواهد افروخت
+      - زنهار تو اندریم زنهار مخسب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 91
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh91
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 91
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh91
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

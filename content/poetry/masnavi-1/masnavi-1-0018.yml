@@ -1,0 +1,43 @@
+id: masnavi-1-0018
+category: masnavi-1
+number: 18
+sectionTitle:
+  fa: بیان حسد وزیر
+firstLine:
+  fa: آن وزیرک از حسد بودش نژاد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن وزیرک از حسد بودش نژاد
+      - تا به باطل گوش و بینی باد داد
+    - - بر امید آنکِ از نیش حسد
+      - زهر او در جان مسکینان رسد
+    - - هر کسی کو از حسد بینی کند
+      - خویش را بی‌گوش و بی بینی کند
+    - - بینی آن باشد که او بویی بَرد
+      - بوی او را جانب کویی بَرد
+    - - هر که بویش نیست بی بینی بود
+      - بوی آن بویست کان دینی بود
+    - - چونک بویی بُرد و شکر آن نکرد
+      - کفر نعمت آمد و بینیش خورد
+    - - شکر کن مر شاکران را بنده باش
+      - پیش ایشان مُرده شو پاینده باش
+    - - چون وزیر از ره‌زنی مایه مساز
+      - خلق را تو بر میاور از نماز
+    - - ناصح دین گشته آن کافر وزیر
+      - کرده او از مکر در گوزینه سیر
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 18
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh18
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 18
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh18
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

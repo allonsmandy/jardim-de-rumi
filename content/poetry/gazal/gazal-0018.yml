@@ -1,0 +1,43 @@
+id: gazal-0018
+category: gazal
+number: 18
+firstLine:
+  fa: ای یوسف خوشنام ما خوش می‌روی بر بام ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای یوسف خوشنام ما خوش می‌روی بر بام ما
+      - اِنّا فَتَحنا اَلصَّلا بازآ ز بام از در درآ
+    - - ای بحر پرمرجان من والله سبک شد جان من
+      - این جان سرگردان من از گردش این آسیا
+    - - ای ساربان با قافله مگذر مرو زین مرحله
+      - اشتر بخوابان هین هله نه از بهر من بهر خدا
+    - - نی نی برو مجنون برو خوش در میان خون برو
+      - از چون مگو بی‌چون برو زیرا که جان را نیست جا
+    - - گر قالبت در خاک شد جان تو بر افلاک شد
+      - گر خرقهٔ تو چاک شد جان تو را نَبوَد فنا
+    - - از سرّ دل بیرون نه‌ای بنمای رو کآیینه‌ای
+      - چون عشق را سرفتنه‌ای پیش تو آید فتنه‌ها
+    - - گویی مرا چون می‌روی گستاخ و افزون می‌روی
+      - بنگر که در خون می‌روی آخر نگویی تا کجا
+    - - گفتم کز آتش‌های دل بر روی مفرش‌های دل
+      - می غلت در سودای دل تا بحر «یفعل ما یشا»
+    - - هر دم رسولی می‌رسد جان را گریبان می‌کشد
+      - بر دل خیالی می‌دود یعنی به اصل خود بیا
+    - - دل از جهان رنگ و بو گشته گریزان سو به سو
+      - نعره زنان کان اصل کو جامه دران اندر وفا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 18
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh18
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 18
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh18
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

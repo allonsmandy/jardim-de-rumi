@@ -1,0 +1,27 @@
+id: rubai-0069
+category: rubai
+number: 69
+firstLine:
+  fa: من تجربه کردم صنم خوش‌خو را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من تجربه کردم صنم خوش‌خو را
+      - سیلاب سیه تیره نکرد آنجو را
+    - - یک روز گره نبست او ابرو را
+      - دارم بیمرگ و زندگانی او را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 69
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh69
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 69
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh69
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

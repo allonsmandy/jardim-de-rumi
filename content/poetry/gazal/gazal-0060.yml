@@ -1,0 +1,39 @@
+id: gazal-0060
+category: gazal
+number: 60
+firstLine:
+  fa: ایا نور رخ موسی مکن اعمی صفورا را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ایا نور رخ موسی مکن اعمی صفورا را
+      - چنین عشقی نهادستی به نورش چشم بینا را
+    - - منم ای برق رام تو برای صید و دام تو
+      - گهی بر رکن بام تو گهی بگرفته صحرا را
+    - - چه داند دام بیچاره‌، فریب مرغ آواره
+      - چه داند یوسف مصری غم و درد زلیخا را
+    - - گریبان گیر و این جا کش کسی را که تو خواهی خوش
+      - که من دامم تو صیادی چه پنهان صنعتی یارا
+    - - چو شهر لوط ویرانم چو چشم لوط حیرانم
+      - سبب خواهم که واپرسم ندارم زَهره و یارا
+    - - اگر عطار عاشق بُد سنایی شاه و فایق بُد
+      - نه اینم من نه آنم من که گم کردم سر و پا را
+    - - یکی آهم کز این آهم بسوزد دشت و خرگاهم
+      - یکی گوشم که من وقفم شهنشاه شکرخا را
+    - - خمش کن در خموشی جان کشد چون کهربا آن را
+      - که جانش مستعد باشد کشاکش‌های بالا را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 60
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh60
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 60
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh60
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

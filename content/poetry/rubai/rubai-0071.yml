@@ -1,0 +1,27 @@
+id: rubai-0071
+category: rubai
+number: 71
+firstLine:
+  fa: منصور بدآن خواجه که در راه خدا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - منصور بدآن خواجه که در راه خدا
+      - از پنبهٔ تن جامهٔ جان کرد جدا
+    - - منصور کجا گفت اناالحق می‌گفت
+      - منصور کجا بود خدا بود خدا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 71
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh71
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 71
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh71
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

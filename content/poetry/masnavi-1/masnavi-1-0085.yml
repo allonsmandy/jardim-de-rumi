@@ -1,0 +1,49 @@
+id: masnavi-1-0085
+category: masnavi-1
+number: 85
+sectionTitle:
+  fa: صفت اجنحهٔ طیور عقول الهی
+firstLine:
+  fa: قصهٔ طوطی جان زین سان بود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - قصهٔ طوطی جان زین سان بود
+      - کو کسی کو محرم مرغان بود
+    - - کو یکی مرغی ضعیفی بی‌گناه
+      - و اندرون او سلیمان با سپاه
+    - - چون به نالد زار بی‌شکر و گله
+      - افتد اندر هفت گردون غلغله
+    - - هر دمش صد نامه صد پیک از خدا
+      - یا ربی زو، شصت لبیک از خدا
+    - - زلت او به ز طاعت نزد حق
+      - پیش کفرش جمله ایمانها خلَق
+    - - هر دمی او را یکی معراج خاص
+      - بر سر تاجش نهد صد تاج خاص
+    - - صورتش بر خاک و جان بر لامکان
+      - لامکانی فوق وهم سالکان
+    - - لامکانی نه که در فهم آیدت
+      - هر دمی در وی خیالی زایدت
+    - - بل مکان و لامکان در حکم او
+      - همچو در حکم بهشتی چار جو
+    - - شرح این کوته کن و رخ زین بتاب
+      - دم مزن والله اعلم بالصواب
+    - - باز می‌گردیم ما ای دوستان
+      - سوی مرغ و تاجر و هندوستان
+    - - مرد بازرگان پذیرفت این پیام
+      - کو رساند سوی جنس از وی سلام
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 85
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh85
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 85
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh85
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

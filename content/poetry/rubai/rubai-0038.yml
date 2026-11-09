@@ -1,0 +1,27 @@
+id: rubai-0038
+category: rubai
+number: 38
+firstLine:
+  fa: تا کی باشی ز دور نظارهٔ ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تا کی باشی ز دور نظارهٔ ما
+      - ما چاره‌گریم و عشق بیچاره ما
+    - - جان کیست کمینه طفل گهوارهٔ ما
+      - دل کیست یکی غریب آوارهٔ ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 38
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh38
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 38
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh38
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

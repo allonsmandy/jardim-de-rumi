@@ -1,0 +1,47 @@
+id: gazal-0092
+category: gazal
+number: 92
+firstLine:
+  fa: زهی باغ زهی باغ که بشکفت ز بالا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - زهی باغ زهی باغ که بشکفت ز بالا
+      - زهی قدر و زهی بدر تبارک و تعالی
+    - - زهی فر زهی نور زهی شر زهی شور
+      - زهی گوهر منثور زهی پشت و تولا
+    - - زهی ملک زهی مال زهی قال زهی حال
+      - زهی پر و زهی بال بر افلاک تجلی
+    - - چو جان سلسله‌ها را بدرد به حرونی
+      - چه ذاالنون چه مجنون چه لیلی و چه لیلا
+    - - علم‌های الهی ز پس کوه برآمد
+      - چه سلطان و چه خاقان چه والی و چه والا
+    - - چه پیش آمد جان را که پس انداخت جهان را
+      - بزن گردن آن را که بگوید که تسلا
+    - - چو بی‌واسطه جبار بپرورد جهان را
+      - چه ناقوس چه ناموس چه اهلا و چه سهلا
+    - - گر اجزای زمینی وگر روح امینی
+      - چو آن حال ببینی بگو جل جلالا
+    - - گر افلاک نباشد به خدا باک نباشد
+      - دل غمناک نباشد مکن بانگ و علالا
+    - - فروپوش فروپوش نه بخروش نه بفروش
+      - توی باده مدهوش یکی لحظه بپالا
+    - - تو کرباسی و قصار تو انگوری و عصار
+      - بپالا و بیفشار ولی دست میالا
+    - - خمش باش خمش باش در این مجمع اوباش
+      - مگو فاش مگو فاش ز مولی و ز مولا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 92
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh92
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 92
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh92
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

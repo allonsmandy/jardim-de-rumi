@@ -1,0 +1,27 @@
+id: rubai-0020
+category: rubai
+number: 20
+firstLine:
+  fa: ای داده بنان گوهر ایمانی را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای داده بنان گوهر ایمانی را
+      - داده بجوی قلب یکی کانی را
+    - - نمرود چو دل را به خلیلی نسپرد
+      - بسپرد به پشه، لاجرم جانی را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 20
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh20
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 20
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh20
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

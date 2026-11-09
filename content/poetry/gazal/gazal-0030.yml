@@ -1,0 +1,41 @@
+id: gazal-0030
+category: gazal
+number: 30
+firstLine:
+  fa: ای فصل باباران ما برریز بر یاران ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای فصل باباران ما برریز بر یاران ما
+      - چون اشک غمخواران ما در هجر دلداران ما
+    - - ای چشم ابر این اشک‌ها می‌ریز همچون مشک‌ها
+      - زیرا که داری رشک‌ها بر ماه رخساران ما
+    - - این ابر را گریان نگر وان باغ را خندان نگر
+      - کز لابه و گریه پدر رستند بیماران ما
+    - - ابر گران چون داد حق از بهر لب خشکان ما
+      - رطل گران هم حق دهد بهر سبکساران ما
+    - - بر خاک و دشت بی‌نوا گوهرفشان کرد آسمان
+      - زین بی‌نوایی می‌کشند از عشق طراران ما
+    - - این ابر چون یعقوب من وان گل چو یوسف در چمن
+      - بشکفته روی یوسفان از اشک افشاران ما
+    - - یک قطره‌اش گوهر شود یک قطره‌اش عبهر شود
+      - وز مال و نعمت پر شود کف‌های کف خاران ما
+    - - باغ و گلستان مَلی اشکوفه می‌کردند دی
+      - زیرا که ابریق از پگه خوردند خمّاران ما
+    - - بربند لب همچون صدف مستی میا در پیش صف
+      - تا بازآیند این طرف از غیب هشیاران ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 30
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh30
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 30
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh30
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

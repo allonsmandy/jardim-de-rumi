@@ -1,0 +1,27 @@
+id: rubai-0002
+category: rubai
+number: 2
+firstLine:
+  fa: آن شمع رخ تو لگنی نیست بیا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن شمع رخ تو لگنی نیست بیا
+      - وان نقش تو از آب منی نیست بیا
+    - - در خشم مکن تو خویشتن را پنهان
+      - کان حسن تو پنهان شدنی نیست بیا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 2
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh2
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 2
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh2
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

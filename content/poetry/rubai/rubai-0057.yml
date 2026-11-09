@@ -1,0 +1,27 @@
+id: rubai-0057
+category: rubai
+number: 57
+firstLine:
+  fa: عمریست ندیده‌ایم گلزار ترا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عمریست ندیده‌ایم گلزار ترا
+      - وان نرگس پرخمار خمار ترا
+    - - پنهان‌شده‌ای ز خلق مانند وفا
+      - دیریست ندیده‌ایم رخسار ترا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 57
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh57
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 57
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh57
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

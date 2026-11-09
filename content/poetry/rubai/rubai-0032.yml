@@ -1,0 +1,27 @@
+id: rubai-0032
+category: rubai
+number: 32
+firstLine:
+  fa: پرورد به ناز و نعمت آن دوست مرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - پرورد به ناز و نعمت آن دوست مرا
+      - بردوخت مُرَقَّع از رگ و پوست مرا
+    - - تن خرقه و اندر او دل ما صوفی
+      - عالم همه خانقاه و شیخ اوست مرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 32
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh32
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 32
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh32
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

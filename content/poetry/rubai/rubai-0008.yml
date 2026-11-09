@@ -1,0 +1,27 @@
+id: rubai-0008
+category: rubai
+number: 8
+firstLine:
+  fa: از بادهٔ لعل، ناب شد گوهر ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - از بادهٔ لعل، ناب شد گوهر ما
+      - آمد به فغان ز دستِ ما ساغر ما
+    - - از بس که همی خوریم می بر سر می
+      - ما در سر می شدیم و می در سر ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 8
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh8
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 8
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh8
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

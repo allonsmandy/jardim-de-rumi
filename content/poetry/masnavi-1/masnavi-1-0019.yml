@@ -1,0 +1,43 @@
+id: masnavi-1-0019
+category: masnavi-1
+number: 19
+sectionTitle:
+  fa: فهم کردن حاذقان نصاری مکر وزیر را
+firstLine:
+  fa: هر که صاحب‌ذوق بود‌، از گفتِ او
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هر که صاحب‌ذوق بود‌، از گفتِ او
+      - لذتی می‌دید و تلخی جُفت او
+    - - نکته‌ها می‌گفت او آمیخته
+      - در جُلابِ قند زهری ریخته
+    - - ظاهرش می‌گفت ‌در ره چُست شو‌
+      - وز اثر می‌گفت جان را ‌سُست شو‌
+    - - ظاهر نُقره گر اسپید‌ست و نو
+      - دست و جامه می‌سیه گردد ازو
+    - - آتش ار چه سرخ‌روی‌ست از شرر
+      - تو ز فعل او سیه‌کار‌ی نگر
+    - - برق اگر نوری نماید در نظر
+      - لیک هست از خاصیت دُزدِ بصر
+    - - هر که جز آگاه و صاحب‌ذوق بود
+      - گفتِ او در گردن او‌ طوق بود
+    - - مدّتی شش سال در هجرانِ شاه
+      - شد وزیر‌ اَتباع‌ِ عیسی را پناه
+    - - دین و دل را کُل بدو بسپرد خلق
+      - پیش امر و حکمِ او می‌مُرد خلق
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 19
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh19
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 19
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh19
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

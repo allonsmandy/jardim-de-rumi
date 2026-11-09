@@ -1,0 +1,27 @@
+id: rubai-0033
+category: rubai
+number: 33
+firstLine:
+  fa: بیگاه شده است لیک مر سیران را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بیگاه شده است لیک مر سیران را
+      - سیری نبود به جز که ادبیران را
+    - - چه روز و چه شب چه صبح دلیران را
+      - چه گرگ و چه میش و بره مر شیران را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 33
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh33
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 33
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh33
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

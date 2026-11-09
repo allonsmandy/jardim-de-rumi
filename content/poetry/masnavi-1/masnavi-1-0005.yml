@@ -1,0 +1,43 @@
+id: masnavi-1-0005
+category: masnavi-1
+number: 5
+sectionTitle:
+  fa: ملاقات پادشاه با آن ولی که در خوابش نمودند
+firstLine:
+  fa: دست بگشاد و کنارانش گرفت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دست بگشاد و کنارانش گرفت
+      - همچو عشق اندر دل و جانش گرفت
+    - - دست و پیشانیش بوسیدن گرفت
+      - وز مقام و راه پُرسیدن گرفت
+    - - پرس‌پرسان می‌کشیدش تا به صدر
+      - گفت گنجی یافتم آخر به صبر
+    - - گفت ای نور حَقُ و دفعِ حَرَج
+      - معنی‌ اَلصَّبْرُ مِفتاحُ الفرج
+    - - ای لقای تو جواب هر سؤال
+      - مشکل از تو حل شود بی‌قیل‌وقال
+    - - ترجمانی، هرچه ما را در دل است
+      - دستگیری، هر که پایش در گل است
+    - - مَرْحَبا یا مُجْتَبی یا مُرْتَضی
+      - إِنْ تَغِبْ جاءَ القَضَا ضَاقَ الفَضَا
+    - - اَنتَ مَوْلَی‌القَوْم مَنْ لا یَشْتَهِی
+      - قَدْ رَدَی کلّا لَئِنْ لَمْ یَنتَهِی
+    - - چون گذشت آن مجلس و خوانِ کرم
+      - دست او بگرفت و بُرد اندر حرم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Masnavi, livro I, seção 5
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh5
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Masnavi, livro I, seção 5
+    url: https://ganjoor.net/moulavi/masnavi/daftar1/sh5
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

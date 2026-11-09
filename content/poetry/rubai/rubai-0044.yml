@@ -1,0 +1,27 @@
+id: rubai-0044
+category: rubai
+number: 44
+firstLine:
+  fa: در جای تو جا نیست به جز آن جان را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در جای تو جا نیست به جز آن جان را
+      - در کوه تو کانیست بجو آن کان را
+    - - صوفی رونده گر توانی می‌جوی
+      - بیرون تو مجو ز خود بجو تو آن را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 44
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh44
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 44
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh44
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

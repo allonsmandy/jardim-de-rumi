@@ -1,0 +1,27 @@
+id: rubai-0092
+category: rubai
+number: 92
+firstLine:
+  fa: بردار حجابها به یکبار امشب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بردار حجابها به یکبار امشب
+      - یک موی ز هر دو کون مگذار امشب
+    - - دیروز حدیث جان و دل می‌گفتی
+      - پیش تو نهیم کشته و زار امشب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 92
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh92
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 92
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh92
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,27 @@
+id: rubai-0081
+category: rubai
+number: 81
+firstLine:
+  fa: امروز چو هر روز خرابیم خراب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - امروز چو هر روز خرابیم خراب
+      - مگشا در اندیشه و برگیر رباب
+    - - صدگونه نماز است و رکوعست و سجود
+      - آنرا که جمال دوست باشد محراب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 81
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh81
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 81
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh81
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

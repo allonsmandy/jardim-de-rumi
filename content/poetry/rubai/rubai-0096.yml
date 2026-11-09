@@ -1,0 +1,27 @@
+id: rubai-0096
+category: rubai
+number: 96
+firstLine:
+  fa: حاجت نبود مستی ما را به شراب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - حاجت نبود مستی ما را به شراب
+      - یا مجلس ما را طرب از چنگ و رباب
+    - - بی‌ساقی و بی‌شاهد و بی‌مطرب و نی
+      - شوریده و مستیم چو مستان خراب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 96
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh96
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 96
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh96
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

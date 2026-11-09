@@ -1,0 +1,27 @@
+id: rubai-0037
+category: rubai
+number: 37
+firstLine:
+  fa: تا عشق ترا است این شکرخایی‌ها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تا عشق ترا است این شکرخایی‌ها
+      - هر روز تو گوش دار صفرایی‌ها
+    - - کارت همه شب شراب‌پیمایی‌ها
+      - مکر و دغل و خصومت‌افزایی‌ها
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 37
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh37
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 37
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh37
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

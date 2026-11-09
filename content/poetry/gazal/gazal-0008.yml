@@ -1,0 +1,39 @@
+id: gazal-0008
+category: gazal
+number: 8
+firstLine:
+  fa: جز وی چه باشد کز اجل اندر رباید کل ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - جز وی چه باشد کز اجل اندر رباید کل ما
+      - صد جان برافشانم بر او گویم هنیئا مرحبا
+    - - رقصان سوی گردون شوم زان جا سوی بی‌چون شوم
+      - صبر و قرارم برده‌ای ای میزبان زوتر بیا
+    - - از مه ستاره می‌بری تو پاره پاره می‌بری
+      - گه شیرخواره می‌بری گه می‌کشانی دایه را
+    - - دارم دلی همچون جهان تا می‌کشد کوه گران
+      - من کُه کشم کَه کی کشم زین کاهدان واخر مرا
+    - - گر موی من چون شیر شد از شوق مردن پیر شد
+      - من آردم گندم نی‌ام‌، چون آمدم در آسیا‌؟
+    - - در آسیا گندم رود کز سنبله زاده‌ست او
+      - زاده ی  مهم نی سنبله‌، در آسیا باشم چرا‌؟
+    - - نی نی فتد در آسیا هم نور مه از روزنی
+      - زان جا به سوی مه رود نی در دکان نانبا
+    - - با عقل خود گر جفتمی من گفتنی‌ها گفتمی
+      - خاموش کن تا نشنود این قصه را باد هوا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 8
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh8
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 8
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh8
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

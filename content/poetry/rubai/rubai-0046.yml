@@ -1,0 +1,27 @@
+id: rubai-0046
+category: rubai
+number: 46
+firstLine:
+  fa: در سر دارم ز می پریشانی‌ها
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در سر دارم ز می پریشانی‌ها
+      - با قند لب تو شکرافشانی‌ها
+    - - ای ساقی پنهان چو پیاپی کردی
+      - رسوا شود این دم همه پنهانی‌ها
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 46
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh46
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 46
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh46
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

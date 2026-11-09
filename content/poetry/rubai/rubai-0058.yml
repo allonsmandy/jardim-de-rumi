@@ -1,0 +1,27 @@
+id: rubai-0058
+category: rubai
+number: 58
+firstLine:
+  fa: غم خود که بود که یاد آریم او را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - غم خود که بود که یاد آریم او را
+      - در دل چه که بر خاک نگاریم او را
+    - - غم باد امید لیک بس بیمغز است
+      - گر سر ننهد مغز برآریم او را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 58
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh58
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 58
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh58
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

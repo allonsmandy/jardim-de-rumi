@@ -1,0 +1,45 @@
+id: gazal-0047
+category: gazal
+number: 47
+firstLine:
+  fa: ای که تو ماه آسمان ماه کجا و تو کجا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای که تو ماه آسمان ماه کجا و تو کجا
+      - در رخ مه کجا بود این کر و فر و کبریا
+    - - جمله به ماه عاشق و ماه اسیر عشق تو
+      - ناله کنان ز درد تو لابه کنان که ای خدا
+    - - سجده کنند مهر و مه پیش رخ چو آتشت
+      - چونک کند جمال تو با مه و مهر ماجرا
+    - - آمد دوش مه که تا سجده برد به پیش تو
+      - غیرت عاشقان تو نعره زنان که رو ، میا
+    - - خوش بخرام بر زمین تا شکفند جان‌ها
+      - تا که ملک فروکند سر ز دریچه سما
+    - - چون که شود ز روی تو برق جهنده هر دلی
+      - دست به چشم برنهد از پی حفظ دیده‌ها
+    - - هر چه بیافت باغ دل از طرب و شکفتگی
+      - از دی این فراق شد حاصل او همه هبا
+    - - زرد شده‌ست باغ جان از غم هجر چون خزان
+      - کی برسد بهار تو تا بنماییش نما
+    - - بر سر کوی تو دلم زار و نزار خفت دی
+      - کرد خیال تو گذر دید بدان صفت ورا
+    - - گفت چگونه‌ای از این عارضه گران بگو
+      - کز تنکی ز دیده‌ها رفت تن تو در خفا
+    - - گفت و گذشت او ز من لیک ز ذوق آن سخن
+      - صحت یافت این دلم یا رب توش دهی جزا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, gazel 47
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh47
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, gazel 47
+    url: https://ganjoor.net/moulavi/shams/ghazalsh/sh47
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

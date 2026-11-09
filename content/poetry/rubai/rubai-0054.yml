@@ -1,0 +1,27 @@
+id: rubai-0054
+category: rubai
+number: 54
+firstLine:
+  fa: عاشق همه سال مست و رسوا بادا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عاشق همه سال مست و رسوا بادا
+      - دیوانه و شوریده و شیدا بادا
+    - - با هشیاری غصهٔ هرچیز خوریم
+      - چون مست شویم هرچه بادا بادا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Divã de Shams, rubai 54
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh54
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Divã de Shams, rubai 54
+    url: https://ganjoor.net/moulavi/shams/robaeesh/sh54
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08
